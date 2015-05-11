@@ -1,0 +1,978 @@
+VERSION 19c
+Control_state [-]; ARDrone_state [-]; Time [s]; nd_seq_num [-];     AccX_raw [LSB]; AccY_raw [LSB]; AccZ_raw [LSB];     GyroX_raw [LSB]; GyroY_raw [LSB]; GyroZ_raw [LSB];
+
+;navdata_time 1245.354187;nd_seq 247427; raw_accs 2072; 2044; 2544; raw_gyros 0049; 0054;-006 ;phys_accs  19.777346; -106.942657; -947.641113;phys_gyros   0.099080; -0.033193; -0.052866; ; frame_size 2362;video_stream.frame_number 35320;  hdvideo_stream.frame_number: 0 ; 1431378143.282030 
+
+;navdata_time 1245.359191;nd_seq 247428; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.870598; -103.206764; -949.503418;phys_gyros   0.110362; -0.045897;  0.029178; ; frame_size 2362;video_stream.frame_number 35320;  hdvideo_stream.frame_number: 0 ; 1431378143.287270 
+
+;navdata_time 1245.364013;nd_seq 247429; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  19.926332; -102.484657; -949.297363;phys_gyros   0.146396; -0.014017;  0.026476; ; frame_size 2362;video_stream.frame_number 35320;  hdvideo_stream.frame_number: 0 ; 1431378143.292749 
+
+;navdata_time 1245.368927;nd_seq 247430; raw_accs 2072; 2048; 2540; raw_gyros 0045; 0053;-006 ;phys_accs  19.959909; -103.669235; -946.460938;phys_gyros   0.065465;  0.009524;  0.045185; ; frame_size 1861;video_stream.frame_number 35321;  hdvideo_stream.frame_number: 0 ; 1431378143.297137 
+
+;navdata_time 1245.374267;nd_seq 247431; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-007 ;phys_accs  19.918381; -107.444237; -944.198242;phys_gyros   0.059790;  0.007265;  0.030882; ; frame_size 1861;video_stream.frame_number 35321;  hdvideo_stream.frame_number: 0 ; 1431378143.303586 
+
+;navdata_time 1245.379211;nd_seq 247432; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.911325; -107.797211; -942.391113;phys_gyros  -0.022882;  0.008975; -0.019031; ; frame_size 1861;video_stream.frame_number 35321;  hdvideo_stream.frame_number: 0 ; 1431378143.314354 
+
+;navdata_time 1245.384124;nd_seq 247433; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-005 ;phys_accs  19.921215; -104.407021; -943.640137;phys_gyros   0.006164; -0.053649; -0.009686; ; frame_size 1861;video_stream.frame_number 35321;  hdvideo_stream.frame_number: 0 ; 1431378143.314938 
+
+;navdata_time 1245.389373;nd_seq 247434; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0055;-008 ;phys_accs  19.906036; -102.073242; -944.700195;phys_gyros   0.002840; -0.065524; -0.042777; ; frame_size 1861;video_stream.frame_number 35321;  hdvideo_stream.frame_number: 0 ; 1431378143.319336 
+
+;navdata_time 1245.394409;nd_seq 247435; raw_accs 2072; 2048; 2540; raw_gyros 0048; 0054;-007 ;phys_accs  19.887278; -100.784622; -944.899902;phys_gyros   0.025852; -0.082178; -0.003447; ; frame_size 1861;video_stream.frame_number 35321;  hdvideo_stream.frame_number: 0 ; 1431378143.323363 
+
+;navdata_time 1245.399291;nd_seq 247436; raw_accs 2072; 2048; 2540; raw_gyros 0048; 0053;-008 ;phys_accs  19.795374; -104.806129; -944.757812;phys_gyros   0.059718; -0.052869;  0.042013; ; frame_size 1861;video_stream.frame_number 35321;  hdvideo_stream.frame_number: 0 ; 1431378143.328292 
+
+;navdata_time 1245.404174;nd_seq 247437; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-006 ;phys_accs  19.753880; -107.925644; -943.735840;phys_gyros   0.068024;  0.013935;  0.040950; ; frame_size 1861;video_stream.frame_number 35321;  hdvideo_stream.frame_number: 0 ; 1431378143.332007 
+
+;navdata_time 1245.409118;nd_seq 247438; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-008 ;phys_accs  19.771265; -107.925659; -944.222168;phys_gyros   0.106516;  0.042299;  0.082053; ; frame_size 1861;video_stream.frame_number 35321;  hdvideo_stream.frame_number: 0 ; 1431378143.338672 
+
+;navdata_time 1245.414459;nd_seq 247439; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-008 ;phys_accs  19.849695; -104.940636; -944.279785;phys_gyros   0.052574;  0.076816;  0.038835; ; frame_size 1861;video_stream.frame_number 35321;  hdvideo_stream.frame_number: 0 ; 1431378143.343519 
+
+;navdata_time 1245.419342;nd_seq 247440; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0055;-005 ;phys_accs  19.927427; -101.151718; -944.400391;phys_gyros   0.046974;  0.015595;  0.027348; ; frame_size 22638;video_stream.frame_number 35322;  hdvideo_stream.frame_number: 0 ; 1431378143.347707 
+
+;navdata_time 1245.424255;nd_seq 247441; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0056;-007 ;phys_accs  19.935524; -99.955879; -944.468750;phys_gyros  -0.002859; -0.047861;  0.031319; ; frame_size 22638;video_stream.frame_number 35322;  hdvideo_stream.frame_number: 0 ; 1431378143.352428 
+
+;navdata_time 1245.429290;nd_seq 247442; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  19.885357; -101.286011; -944.151855;phys_gyros   0.057495; -0.097767; -0.036222; ; frame_size 22638;video_stream.frame_number 35322;  hdvideo_stream.frame_number: 0 ; 1431378143.362452 
+
+;navdata_time 1245.434631;nd_seq 247443; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-009 ;phys_accs  19.834688; -102.493675; -944.287598;phys_gyros   0.076995; -0.114979;  0.043405; ; frame_size 2498;video_stream.frame_number 35323;  hdvideo_stream.frame_number: 0 ; 1431378143.362551 
+
+;navdata_time 1245.439422;nd_seq 247444; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-007 ;phys_accs  19.823198; -102.846565; -944.270996;phys_gyros   0.102510; -0.048343; -0.003959; ; frame_size 2498;video_stream.frame_number 35323;  hdvideo_stream.frame_number: 0 ; 1431378143.368231 
+
+;navdata_time 1245.444396;nd_seq 247445; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0053;-008 ;phys_accs  19.858721; -102.226379; -944.300781;phys_gyros   0.099813; -0.009550;  0.095334; ; frame_size 2498;video_stream.frame_number 35323;  hdvideo_stream.frame_number: 0 ; 1431378143.373078 
+
+;navdata_time 1245.449462;nd_seq 247446; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.918442; -101.357132; -944.358887;phys_gyros   0.061762;  0.019795;  0.091952; ; frame_size 2498;video_stream.frame_number 35323;  hdvideo_stream.frame_number: 0 ; 1431378143.377331 
+
+;navdata_time 1245.454376;nd_seq 247447; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0052;-008 ;phys_accs  19.937443; -101.847466; -945.746582;phys_gyros   0.085550;  0.040502;  0.087705; ; frame_size 2498;video_stream.frame_number 35323;  hdvideo_stream.frame_number: 0 ; 1431378143.381908 
+
+;navdata_time 1245.459747;nd_seq 247448; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-008 ;phys_accs  19.935606; -101.970039; -947.622559;phys_gyros   0.043165;  0.002113;  0.109781; ; frame_size 2498;video_stream.frame_number 35323;  hdvideo_stream.frame_number: 0 ; 1431378143.390692 
+
+;navdata_time 1245.464477;nd_seq 247449; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-004 ;phys_accs  19.884642; -102.250633; -950.994629;phys_gyros   0.048194;  0.031974;  0.005506; ; frame_size 2498;video_stream.frame_number 35323;  hdvideo_stream.frame_number: 0 ; 1431378143.392521 
+
+;navdata_time 1245.469482;nd_seq 247450; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-005 ;phys_accs  19.833828; -102.204552; -952.607422;phys_gyros   0.004241; -0.013927;  0.020291; ; frame_size 2080;video_stream.frame_number 35324;  hdvideo_stream.frame_number: 0 ; 1431378143.398859 
+
+;navdata_time 1245.474670;nd_seq 247451; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0053;-007 ;phys_accs  19.788118; -101.956444; -953.175293;phys_gyros  -0.012989; -0.003515; -0.087707; ; frame_size 2080;video_stream.frame_number 35324;  hdvideo_stream.frame_number: 0 ; 1431378143.402283 
+
+;navdata_time 1245.479888;nd_seq 247452; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-006 ;phys_accs  19.754658; -102.080742; -952.477539;phys_gyros  -0.005047; -0.023711; -0.068619; ; frame_size 2080;video_stream.frame_number 35324;  hdvideo_stream.frame_number: 0 ; 1431378143.408343 
+
+;navdata_time 1245.484619;nd_seq 247453; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0055;-006 ;phys_accs  19.746403; -102.074715; -951.221191;phys_gyros  -0.012322; -0.047921; -0.045546; ; frame_size 2080;video_stream.frame_number 35324;  hdvideo_stream.frame_number: 0 ; 1431378143.412495 
+
+;navdata_time 1245.489562;nd_seq 247454; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0055;-005 ;phys_accs  19.737570; -102.192986; -951.823730;phys_gyros   0.025426; -0.047308; -0.041088; ; frame_size 2080;video_stream.frame_number 35324;  hdvideo_stream.frame_number: 0 ; 1431378143.417124 
+
+;navdata_time 1245.494628;nd_seq 247455; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-007 ;phys_accs  19.758852; -102.231750; -951.616699;phys_gyros   0.013766; -0.071970;  0.013789; ; frame_size 2278;video_stream.frame_number 35325;  hdvideo_stream.frame_number: 0 ; 1431378143.422399 
+
+;navdata_time 1245.499725;nd_seq 247456; raw_accs 2072; 2044; 2544; raw_gyros 0044; 0054;-007 ;phys_accs  19.785528; -102.174919; -952.441895;phys_gyros   0.003894; -0.044999; -0.040406; ; frame_size 2278;video_stream.frame_number 35325;  hdvideo_stream.frame_number: 0 ; 1431378143.428472 
+
+;navdata_time 1245.504669;nd_seq 247457; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0053;-006 ;phys_accs  19.829559; -102.204445; -952.065918;phys_gyros   0.003937; -0.010976; -0.006178; ; frame_size 2278;video_stream.frame_number 35325;  hdvideo_stream.frame_number: 0 ; 1431378143.432144 
+
+;navdata_time 1245.509643;nd_seq 247458; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-007 ;phys_accs  19.885677; -102.144455; -950.353516;phys_gyros  -0.012493;  0.037059;  0.002274; ; frame_size 2278;video_stream.frame_number 35325;  hdvideo_stream.frame_number: 0 ; 1431378143.441647 
+
+;navdata_time 1245.515045;nd_seq 247459; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-007 ;phys_accs  19.926443; -102.119682; -948.647461;phys_gyros   0.064233;  0.037977;  0.009904; ; frame_size 2278;video_stream.frame_number 35325;  hdvideo_stream.frame_number: 0 ; 1431378143.442933 
+
+;navdata_time 1245.519836;nd_seq 247460; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0056;-008 ;phys_accs  19.963511; -102.061340; -945.100098;phys_gyros   0.049574;  0.007885;  0.060194; ; frame_size 2278;video_stream.frame_number 35325;  hdvideo_stream.frame_number: 0 ; 1431378143.447878 
+
+;navdata_time 1245.524932;nd_seq 247461; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-006 ;phys_accs  19.952242; -101.993111; -943.762207;phys_gyros   0.063930; -0.056483;  0.011426; ; frame_size 2278;video_stream.frame_number 35325;  hdvideo_stream.frame_number: 0 ; 1431378143.453843 
+
+;navdata_time 1245.529815;nd_seq 247462; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-005 ;phys_accs  19.917166; -101.973732; -943.137695;phys_gyros  -0.004943; -0.071823;  0.026716; ; frame_size 4649;video_stream.frame_number 35326;  hdvideo_stream.frame_number: 0 ; 1431378143.457994 
+
+;navdata_time 1245.534851;nd_seq 247463; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0053;-006 ;phys_accs  19.872444; -101.946159; -943.742676;phys_gyros  -0.025523; -0.039898; -0.028496; ; frame_size 4649;video_stream.frame_number 35326;  hdvideo_stream.frame_number: 0 ; 1431378143.462514 
+
+;navdata_time 1245.539794;nd_seq 247464; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-007 ;phys_accs  19.839462; -101.951317; -945.067871;phys_gyros   0.017085;  0.018986; -0.049942; ; frame_size 4649;video_stream.frame_number 35326;  hdvideo_stream.frame_number: 0 ; 1431378143.467656 
+
+;navdata_time 1245.545013;nd_seq 247465; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0056;-009 ;phys_accs  19.851868; -101.948097; -944.373535;phys_gyros   0.057573;  0.040328;  0.000215; ; frame_size 4649;video_stream.frame_number 35326;  hdvideo_stream.frame_number: 0 ; 1431378143.474947 
+
+;navdata_time 1245.549926;nd_seq 247466; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0056;-008 ;phys_accs  19.866718; -101.959190; -944.669922;phys_gyros   0.106781;  0.000233;  0.033261; ; frame_size 4649;video_stream.frame_number 35326;  hdvideo_stream.frame_number: 0 ; 1431378143.477532 
+
+;navdata_time 1245.555084;nd_seq 247467; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  19.890547; -101.976685; -943.833008;phys_gyros   0.059743; -0.084659;  0.124802; ; frame_size 4649;video_stream.frame_number 35326;  hdvideo_stream.frame_number: 0 ; 1431378143.482790 
+
+;navdata_time 1245.559997;nd_seq 247468; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-008 ;phys_accs  19.891827; -101.990738; -944.179688;phys_gyros   0.037357; -0.119633;  0.110685; ; frame_size 3708;video_stream.frame_number 35327;  hdvideo_stream.frame_number: 0 ; 1431378143.488676 
+
+;navdata_time 1245.564971;nd_seq 247469; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-007 ;phys_accs  19.891241; -101.994232; -944.432129;phys_gyros  -0.008336; -0.115967;  0.072622; ; frame_size 3708;video_stream.frame_number 35327;  hdvideo_stream.frame_number: 0 ; 1431378143.492615 
+
+;navdata_time 1245.570007;nd_seq 247470; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-005 ;phys_accs  19.904972; -101.985504; -944.271484;phys_gyros   0.026478; -0.063776;  0.018872; ; frame_size 3708;video_stream.frame_number 35327;  hdvideo_stream.frame_number: 0 ; 1431378143.497855 
+
+;navdata_time 1245.575042;nd_seq 247471; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-007 ;phys_accs  19.930079; -101.978889; -944.455078;phys_gyros   0.003268; -0.026040; -0.026763; ; frame_size 3708;video_stream.frame_number 35327;  hdvideo_stream.frame_number: 0 ; 1431378143.502664 
+
+;navdata_time 1245.580169;nd_seq 247472; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-005 ;phys_accs  19.965961; -101.982735; -944.186035;phys_gyros   0.005720; -0.025877; -0.040561; ; frame_size 3708;video_stream.frame_number 35327;  hdvideo_stream.frame_number: 0 ; 1431378143.508239 
+
+;navdata_time 1245.585205;nd_seq 247473; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-007 ;phys_accs  19.987740; -101.997101; -944.256836;phys_gyros  -0.023630; -0.032610; -0.025693; ; frame_size 3708;video_stream.frame_number 35327;  hdvideo_stream.frame_number: 0 ; 1431378143.512809 
+
+;navdata_time 1245.590148;nd_seq 247474; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0056;-008 ;phys_accs  19.987047; -102.018295; -944.330566;phys_gyros  -0.027582; -0.068286; -0.017989; ; frame_size 3708;video_stream.frame_number 35327;  hdvideo_stream.frame_number: 0 ; 1431378143.517982 
+
+;navdata_time 1245.595367;nd_seq 247475; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.965593; -102.039886; -944.264648;phys_gyros   0.019953; -0.068346;  0.034462; ; frame_size 3776;video_stream.frame_number 35328;  hdvideo_stream.frame_number: 0 ; 1431378143.522997 
+
+;navdata_time 1245.600280;nd_seq 247476; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0054;-007 ;phys_accs  19.930992; -102.058990; -944.354492;phys_gyros   0.041860; -0.069643;  0.055476; ; frame_size 3776;video_stream.frame_number 35328;  hdvideo_stream.frame_number: 0 ; 1431378143.528166 
+
+;navdata_time 1245.605346;nd_seq 247477; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-007 ;phys_accs  19.900291; -102.070312; -944.268066;phys_gyros   0.080040; -0.029593;  0.050234; ; frame_size 3776;video_stream.frame_number 35328;  hdvideo_stream.frame_number: 0 ; 1431378143.533822 
+
+;navdata_time 1245.610382;nd_seq 247478; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.879000; -102.067879; -944.284180;phys_gyros   0.086888; -0.013981;  0.064964; ; frame_size 3776;video_stream.frame_number 35328;  hdvideo_stream.frame_number: 0 ; 1431378143.538363 
+
+;navdata_time 1245.615264;nd_seq 247479; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-007 ;phys_accs  19.868383; -102.046608; -944.307129;phys_gyros   0.072743; -0.011346;  0.017497; ; frame_size 3776;video_stream.frame_number 35328;  hdvideo_stream.frame_number: 0 ; 1431378143.544076 
+
+;navdata_time 1245.620269;nd_seq 247480; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-007 ;phys_accs  19.863468; -102.008934; -944.278809;phys_gyros   0.084028; -0.006236;  0.057564; ; frame_size 3776;video_stream.frame_number 35328;  hdvideo_stream.frame_number: 0 ; 1431378143.548144 
+
+;navdata_time 1245.625305;nd_seq 247481; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-007 ;phys_accs  19.841770; -101.981720; -945.806641;phys_gyros   0.061026; -0.037773;  0.033409; ; frame_size 1986;video_stream.frame_number 35329;  hdvideo_stream.frame_number: 0 ; 1431378143.553021 
+
+;navdata_time 1245.630340;nd_seq 247482; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-007 ;phys_accs  19.815975; -101.963165; -947.608398;phys_gyros   0.068069;  0.005789;  0.038275; ; frame_size 1986;video_stream.frame_number 35329;  hdvideo_stream.frame_number: 0 ; 1431378143.557995 
+
+;navdata_time 1245.635528;nd_seq 247483; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-007 ;phys_accs  19.774334; -101.978279; -951.001953;phys_gyros   0.070972; -0.016757;  0.034883; ; frame_size 1986;video_stream.frame_number 35329;  hdvideo_stream.frame_number: 0 ; 1431378143.563004 
+
+;navdata_time 1245.640411;nd_seq 247484; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0055;-007 ;phys_accs  19.755726; -101.991661; -952.618164;phys_gyros   0.051791; -0.020318;  0.010209; ; frame_size 1986;video_stream.frame_number 35329;  hdvideo_stream.frame_number: 0 ; 1431378143.568367 
+
+;navdata_time 1245.645629;nd_seq 247485; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.768963; -101.992157; -951.654785;phys_gyros   0.054322; -0.025603;  0.025102; ; frame_size 1986;video_stream.frame_number 35329;  hdvideo_stream.frame_number: 0 ; 1431378143.573251 
+
+;navdata_time 1245.650360;nd_seq 247486; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0052;-005 ;phys_accs  19.802481; -101.987564; -949.176758;phys_gyros   0.010933; -0.045599; -0.014507; ; frame_size 1986;video_stream.frame_number 35329;  hdvideo_stream.frame_number: 0 ; 1431378143.579222 
+
+;navdata_time 1245.655517;nd_seq 247487; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0054;-009 ;phys_accs  19.863777; -101.964272; -944.503418;phys_gyros   0.029039;  0.014051;  0.003393; ; frame_size 1986;video_stream.frame_number 35329;  hdvideo_stream.frame_number: 0 ; 1431378143.583250 
+
+;navdata_time 1245.660491;nd_seq 247488; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  19.888708; -101.988594; -943.508789;phys_gyros   0.028985;  0.015834; -0.007628; ; frame_size 1968;video_stream.frame_number 35330;  hdvideo_stream.frame_number: 0 ; 1431378143.588603 
+
+;navdata_time 1245.665496;nd_seq 247489; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  19.882315; -103.553574; -942.771973;phys_gyros   0.067619;  0.011305;  0.036742; ; frame_size 1968;video_stream.frame_number 35330;  hdvideo_stream.frame_number: 0 ; 1431378143.593540 
+
+;navdata_time 1245.670593;nd_seq 247490; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-006 ;phys_accs  19.866980; -103.947754; -944.246094;phys_gyros   0.070327;  0.020471;  0.027486; ; frame_size 1968;video_stream.frame_number 35330;  hdvideo_stream.frame_number: 0 ; 1431378143.598359 
+
+;navdata_time 1245.675872;nd_seq 247491; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  19.796722; -107.123360; -945.178711;phys_gyros   0.069926; -0.011723;  0.014464; ; frame_size 1968;video_stream.frame_number 35330;  hdvideo_stream.frame_number: 0 ; 1431378143.603573 
+
+;navdata_time 1245.680664;nd_seq 247492; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0053;-005 ;phys_accs  19.794510; -107.155144; -944.336426;phys_gyros   0.067755;  0.050695; -0.027806; ; frame_size 1968;video_stream.frame_number 35330;  hdvideo_stream.frame_number: 0 ; 1431378143.610469 
+
+;navdata_time 1245.685638;nd_seq 247493; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.734575; -109.539062; -944.682129;phys_gyros   0.055693;  0.038472; -0.032985; ; frame_size 1968;video_stream.frame_number 35330;  hdvideo_stream.frame_number: 0 ; 1431378143.613291 
+
+;navdata_time 1245.690643;nd_seq 247494; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0052;-007 ;phys_accs  19.726269; -109.912773; -943.715820;phys_gyros   0.069907;  0.050323; -0.004304; ; frame_size 2153;video_stream.frame_number 35331;  hdvideo_stream.frame_number: 0 ; 1431378143.618497 
+
+;navdata_time 1245.695709;nd_seq 247495; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  19.711161; -109.817314; -944.340820;phys_gyros   0.036708;  0.027414;  0.033710; ; frame_size 2153;video_stream.frame_number 35331;  hdvideo_stream.frame_number: 0 ; 1431378143.623575 
+
+;navdata_time 1245.700714;nd_seq 247496; raw_accs 2072; 2048; 2540; raw_gyros 0048; 0054;-006 ;phys_accs  19.678040; -111.062279; -944.499023;phys_gyros   0.051549; -0.003160;  0.046295; ; frame_size 2153;video_stream.frame_number 35331;  hdvideo_stream.frame_number: 0 ; 1431378143.628369 
+
+;navdata_time 1245.705718;nd_seq 247497; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0053;-006 ;phys_accs  19.714842; -108.886192; -944.300293;phys_gyros   0.037878;  0.009782;  0.011636; ; frame_size 2153;video_stream.frame_number 35331;  hdvideo_stream.frame_number: 0 ; 1431378143.633319 
+
+;navdata_time 1245.710906;nd_seq 247498; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0055;-005 ;phys_accs  19.685148; -110.578583; -944.515137;phys_gyros   0.079245; -0.024117; -0.030115; ; frame_size 2153;video_stream.frame_number 35331;  hdvideo_stream.frame_number: 0 ; 1431378143.638818 
+
+;navdata_time 1245.716033;nd_seq 247499; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.728762; -109.155457; -944.165039;phys_gyros   0.073971;  0.004854; -0.061531; ; frame_size 2153;video_stream.frame_number 35331;  hdvideo_stream.frame_number: 0 ; 1431378143.646517 
+
+;navdata_time 1245.720886;nd_seq 247500; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0053;-008 ;phys_accs  19.732006; -110.153511; -944.331055;phys_gyros   0.072482; -0.027498; -0.022813; ; frame_size 2153;video_stream.frame_number 35331;  hdvideo_stream.frame_number: 0 ; 1431378143.648741 
+
+;navdata_time 1245.725860;nd_seq 247501; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0053;-006 ;phys_accs  19.758684; -110.155441; -944.375488;phys_gyros   0.035257;  0.026711; -0.001097; ; frame_size 2295;video_stream.frame_number 35332;  hdvideo_stream.frame_number: 0 ; 1431378143.653991 
+
+;navdata_time 1245.730865;nd_seq 247502; raw_accs 2072; 2048; 2540; raw_gyros 0045; 0055;-006 ;phys_accs  19.793848; -109.634598; -944.302734;phys_gyros   0.004243;  0.003989;  0.048524; ; frame_size 2295;video_stream.frame_number 35332;  hdvideo_stream.frame_number: 0 ; 1431378143.660802 
+
+;navdata_time 1245.735931;nd_seq 247503; raw_accs 2068; 2048; 2540; raw_gyros 0048; 0055;-006 ;phys_accs  18.256842; -110.167725; -944.377441;phys_gyros   0.021758; -0.002590;  0.003091; ; frame_size 2295;video_stream.frame_number 35332;  hdvideo_stream.frame_number: 0 ; 1431378143.663723 
+
+;navdata_time 1245.741149;nd_seq 247504; raw_accs 2068; 2048; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  16.380152; -109.622772; -944.219238;phys_gyros   0.007476; -0.053068; -0.019763; ; frame_size 2295;video_stream.frame_number 35332;  hdvideo_stream.frame_number: 0 ; 1431378143.672574 
+
+;navdata_time 1245.746093;nd_seq 247505; raw_accs 2068; 2048; 2540; raw_gyros 0046; 0051;-005 ;phys_accs  12.861941; -109.850006; -944.194336;phys_gyros   0.061020; -0.062225; -0.070991; ; frame_size 2295;video_stream.frame_number 35332;  hdvideo_stream.frame_number: 0 ; 1431378143.673554 
+
+;navdata_time 1245.751098;nd_seq 247506; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0053;-006 ;phys_accs  12.732020; -109.902771; -944.206055;phys_gyros   0.021026; -0.013909; -0.064855; ; frame_size 2295;video_stream.frame_number 35332;  hdvideo_stream.frame_number: 0 ; 1431378143.680332 
+
+;navdata_time 1245.756225;nd_seq 247507; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  14.061541; -109.735138; -944.201172;phys_gyros   0.040647;  0.040627; -0.053073; ; frame_size 1932;video_stream.frame_number 35333;  hdvideo_stream.frame_number: 0 ; 1431378143.684020 
+
+;navdata_time 1245.761108;nd_seq 247508; raw_accs 2072; 2044; 2536; raw_gyros 0045; 0053;-006 ;phys_accs  18.291187; -108.491928; -942.833984;phys_gyros   0.006672;  0.076756; -0.038723; ; frame_size 1932;video_stream.frame_number 35333;  hdvideo_stream.frame_number: 0 ; 1431378143.688819 
+
+;navdata_time 1245.766082;nd_seq 247509; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  21.309109; -106.459160; -942.503906;phys_gyros   0.012089;  0.042267; -0.012555; ; frame_size 1932;video_stream.frame_number 35333;  hdvideo_stream.frame_number: 0 ; 1431378143.693986 
+
+;navdata_time 1245.771301;nd_seq 247510; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  21.297689; -103.021561; -940.937988;phys_gyros   0.022114;  0.011456; -0.020493; ; frame_size 1932;video_stream.frame_number 35333;  hdvideo_stream.frame_number: 0 ; 1431378143.699353 
+
+;navdata_time 1245.776245;nd_seq 247511; raw_accs 2072; 2044; 2536; raw_gyros 0046; 0055;-007 ;phys_accs  20.824215; -101.371910; -941.217773;phys_gyros   0.016453; -0.041313;  0.013870; ; frame_size 1932;video_stream.frame_number 35333;  hdvideo_stream.frame_number: 0 ; 1431378143.705146 
+
+;navdata_time 1245.776245;nd_seq 247512; raw_accs 2072; 2044; 2536; raw_gyros 0046; 0055;-007 ;phys_accs  20.824215; -101.371910; -941.217773;phys_gyros   0.016453; -0.041313;  0.013870; ; frame_size 1932;video_stream.frame_number 35333;  hdvideo_stream.frame_number: 0 ; 1431378143.708361 
+
+;navdata_time 1245.781127;nd_seq 247513; raw_accs 2072; 2044; 2536; raw_gyros 0047; 0053;-006 ;phys_accs  18.651098; -100.674973; -940.392578;phys_gyros   0.042087; -0.013015; -0.009582; ; frame_size 1932;video_stream.frame_number 35333;  hdvideo_stream.frame_number: 0 ; 1431378143.713065 
+
+;navdata_time 1245.786254;nd_seq 247514; raw_accs 2072; 2044; 2536; raw_gyros 0047; 0054;-007 ;phys_accs  19.651983; -101.437149; -938.249512;phys_gyros   0.029613; -0.036513;  0.012969; ; frame_size 1932;video_stream.frame_number 35333;  hdvideo_stream.frame_number: 0 ; 1431378143.714511 
+
+;navdata_time 1245.791229;nd_seq 247515; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-007 ;phys_accs  19.648945; -102.684227; -938.739746;phys_gyros   0.068535; -0.014782; -0.000385; ; frame_size 1832;video_stream.frame_number 35334;  hdvideo_stream.frame_number: 0 ; 1431378143.719227 
+
+;navdata_time 1245.796386;nd_seq 247516; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-008 ;phys_accs  20.402580; -102.081009; -938.156738;phys_gyros   0.038806; -0.035878;  0.028562; ; frame_size 1832;video_stream.frame_number 35334;  hdvideo_stream.frame_number: 0 ; 1431378143.723958 
+
+;navdata_time 1245.796386;nd_seq 247517; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-008 ;phys_accs  20.402580; -102.081009; -938.156738;phys_gyros   0.038806; -0.035878;  0.028562; ; frame_size 1832;video_stream.frame_number 35334;  hdvideo_stream.frame_number: 0 ; 1431378143.729849 
+
+;navdata_time 1245.806427;nd_seq 247519; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-005 ;phys_accs  19.685949; -101.482193; -944.866699;phys_gyros   0.029784; -0.028237;  0.043507; ; frame_size 1832;video_stream.frame_number 35334;  hdvideo_stream.frame_number: 0 ; 1431378143.734148 
+
+;navdata_time 1245.811370;nd_seq 247520; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-005 ;phys_accs  19.903017; -101.899429; -945.987793;phys_gyros   0.071815; -0.030925;  0.032276; ; frame_size 1832;video_stream.frame_number 35334;  hdvideo_stream.frame_number: 0 ; 1431378143.739287 
+
+;navdata_time 1245.816375;nd_seq 247521; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-007 ;phys_accs  19.827700; -102.091965; -945.390137;phys_gyros   0.071940;  0.026732; -0.048221; ; frame_size 1832;video_stream.frame_number 35334;  hdvideo_stream.frame_number: 0 ; 1431378143.744074 
+
+;navdata_time 1245.821319;nd_seq 247522; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-007 ;phys_accs  20.060162; -101.961060; -944.442871;phys_gyros   0.056238;  0.033518; -0.047784; ; frame_size 1884;video_stream.frame_number 35335;  hdvideo_stream.frame_number: 0 ; 1431378143.749609 
+
+;navdata_time 1245.826385;nd_seq 247524; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-007 ;phys_accs  20.017008; -102.164230; -947.532227;phys_gyros   0.038338;  0.044262; -0.024741; ; frame_size 1884;video_stream.frame_number 35335;  hdvideo_stream.frame_number: 0 ; 1431378143.754192 
+
+;navdata_time 1245.831298;nd_seq 247525; raw_accs 2072; 2048; 2544; raw_gyros 0047; 0053;-006 ;phys_accs  19.779079; -103.456406; -950.524414;phys_gyros  -0.033357;  0.018927;  0.014176; ; frame_size 1884;video_stream.frame_number 35335;  hdvideo_stream.frame_number: 0 ; 1431378143.762940 
+
+;navdata_time 1245.836975;nd_seq 247526; raw_accs 2072; 2048; 2544; raw_gyros 0046; 0054;-006 ;phys_accs  19.751089; -105.477547; -953.175293;phys_gyros  -0.011667; -0.015835;  0.041060; ; frame_size 1884;video_stream.frame_number 35335;  hdvideo_stream.frame_number: 0 ; 1431378143.765154 
+
+;navdata_time 1245.841491;nd_seq 247527; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-007 ;phys_accs  19.604519; -107.512886; -953.501953;phys_gyros  -0.016389; -0.012425; -0.000132; ; frame_size 1884;video_stream.frame_number 35335;  hdvideo_stream.frame_number: 0 ; 1431378143.769371 
+
+;navdata_time 1245.846496;nd_seq 247528; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-008 ;phys_accs  19.658794; -107.243881; -952.229492;phys_gyros   0.014750; -0.028033; -0.000052; ; frame_size 1884;video_stream.frame_number 35335;  hdvideo_stream.frame_number: 0 ; 1431378143.774105 
+
+;navdata_time 1245.851531;nd_seq 247529; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-006 ;phys_accs  19.728209; -104.412369; -951.280762;phys_gyros   0.022556; -0.010887; -0.000923; ; frame_size 1884;video_stream.frame_number 35335;  hdvideo_stream.frame_number: 0 ; 1431378143.779857 
+
+;navdata_time 1245.856536;nd_seq 247530; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0053;-004 ;phys_accs  19.734623; -102.008942; -951.615234;phys_gyros   0.031575; -0.012999; -0.001549; ; frame_size 1828;video_stream.frame_number 35336;  hdvideo_stream.frame_number: 0 ; 1431378143.784222 
+
+;navdata_time 1245.861511;nd_seq 247531; raw_accs 2072; 2044; 2544; raw_gyros 0049; 0055;-007 ;phys_accs  19.826818; -100.174347; -951.718262;phys_gyros   0.089525; -0.024738; -0.002648; ; frame_size 1828;video_stream.frame_number 35336;  hdvideo_stream.frame_number: 0 ; 1431378143.789609 
+
+;navdata_time 1245.866607;nd_seq 247532; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0052;-008 ;phys_accs  19.797403; -101.509094; -952.541016;phys_gyros   0.115540;  0.010788; -0.041875; ; frame_size 1828;video_stream.frame_number 35336;  hdvideo_stream.frame_number: 0 ; 1431378143.794378 
+
+;navdata_time 1245.871765;nd_seq 247533; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0053;-005 ;phys_accs  19.830698; -102.553650; -951.990234;phys_gyros   0.114319; -0.002519; -0.028614; ; frame_size 1828;video_stream.frame_number 35336;  hdvideo_stream.frame_number: 0 ; 1431378143.799636 
+
+;navdata_time 1245.876831;nd_seq 247534; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-008 ;phys_accs  19.853806; -102.753670; -951.896973;phys_gyros   0.044654;  0.042802;  0.013007; ; frame_size 1828;video_stream.frame_number 35336;  hdvideo_stream.frame_number: 0 ; 1431378143.804657 
+
+;navdata_time 1245.881713;nd_seq 247535; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.861778; -102.489380; -950.403320;phys_gyros  -0.027085;  0.027768;  0.026468; ; frame_size 1828;video_stream.frame_number 35336;  hdvideo_stream.frame_number: 0 ; 1431378143.809437 
+
+;navdata_time 1245.886718;nd_seq 247536; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-007 ;phys_accs  19.904493; -101.351471; -948.507324;phys_gyros  -0.027458;  0.030887;  0.066095; ; frame_size 1828;video_stream.frame_number 35336;  hdvideo_stream.frame_number: 0 ; 1431378143.815332 
+
+;navdata_time 1245.891693;nd_seq 247537; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-005 ;phys_accs  19.894976; -101.803101; -945.402344;phys_gyros   0.009467;  0.040146; -0.001664; ; frame_size 1828;video_stream.frame_number 35336;  hdvideo_stream.frame_number: 0 ; 1431378143.819477 
+
+;navdata_time 1245.896789;nd_seq 247538; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  19.889740; -101.862808; -943.650879;phys_gyros   0.084937;  0.019889;  0.001768; ; frame_size 22096;video_stream.frame_number 35337;  hdvideo_stream.frame_number: 0 ; 1431378143.827795 
+
+;navdata_time 1245.901733;nd_seq 247539; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.870281; -102.057823; -943.105957;phys_gyros   0.081270;  0.041646; -0.024705; ; frame_size 22096;video_stream.frame_number 35337;  hdvideo_stream.frame_number: 0 ; 1431378143.830554 
+
+;navdata_time 1245.906951;nd_seq 247540; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-007 ;phys_accs  19.837923; -102.187401; -943.768555;phys_gyros   0.071744; -0.000050; -0.009150; ; frame_size 22096;video_stream.frame_number 35337;  hdvideo_stream.frame_number: 0 ; 1431378143.837052 
+
+;navdata_time 1245.911926;nd_seq 247541; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0052;-009 ;phys_accs  19.829287; -101.903778; -944.988281;phys_gyros   0.024863;  0.016473;  0.064019; ; frame_size 22096;video_stream.frame_number 35337;  hdvideo_stream.frame_number: 0 ; 1431378143.843717 
+
+;navdata_time 1245.919281;nd_seq 247542; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.833065; -102.043259; -944.474121;phys_gyros   0.014161; -0.004949;  0.051398; ; frame_size 22096;video_stream.frame_number 35337;  hdvideo_stream.frame_number: 0 ; 1431378143.847731 
+
+;navdata_time 1245.922027;nd_seq 247543; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.848787; -102.012047; -944.635742;phys_gyros   0.016547;  0.028677;  0.103778; ; frame_size 22096;video_stream.frame_number 35337;  hdvideo_stream.frame_number: 0 ; 1431378143.852475 
+
+;navdata_time 1245.926971;nd_seq 247544; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-006 ;phys_accs  19.864799; -102.044891; -945.318359;phys_gyros   0.009198;  0.015776;  0.014017; ; frame_size 4746;video_stream.frame_number 35338;  hdvideo_stream.frame_number: 0 ; 1431378143.854604 
+
+;navdata_time 1245.931976;nd_seq 247545; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-007 ;phys_accs  19.861561; -102.121902; -947.517578;phys_gyros   0.029120;  0.014341; -0.003706; ; frame_size 4746;video_stream.frame_number 35338;  hdvideo_stream.frame_number: 0 ; 1431378143.861523 
+
+;navdata_time 1245.937194;nd_seq 247546; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  19.861511; -102.038437; -949.615234;phys_gyros   0.025957; -0.007052; -0.039577; ; frame_size 4746;video_stream.frame_number 35338;  hdvideo_stream.frame_number: 0 ; 1431378143.865136 
+
+;navdata_time 1245.942077;nd_seq 247547; raw_accs 2076; 2044; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  21.414904; -102.115005; -949.332520;phys_gyros   0.065674; -0.011735; -0.023291; ; frame_size 4746;video_stream.frame_number 35338;  hdvideo_stream.frame_number: 0 ; 1431378143.869838 
+
+;navdata_time 1245.947113;nd_seq 247548; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0055;-007 ;phys_accs  21.797504; -102.073364; -946.629883;phys_gyros   0.082481; -0.006243;  0.020631; ; frame_size 4746;video_stream.frame_number 35338;  hdvideo_stream.frame_number: 0 ; 1431378143.874911 
+
+;navdata_time 1245.952117;nd_seq 247549; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-005 ;phys_accs  23.439756; -102.079262; -944.133301;phys_gyros   0.098122; -0.003746;  0.001556; ; frame_size 2141;video_stream.frame_number 35339;  hdvideo_stream.frame_number: 0 ; 1431378143.880941 
+
+;navdata_time 1245.957275;nd_seq 247550; raw_accs 2076; 2044; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  23.153210; -102.070389; -942.393555;phys_gyros   0.089216; -0.025798;  0.003022; ; frame_size 2141;video_stream.frame_number 35339;  hdvideo_stream.frame_number: 0 ; 1431378143.885073 
+
+;navdata_time 1245.962158;nd_seq 247551; raw_accs 2076; 2044; 2540; raw_gyros 0047; 0055;-005 ;phys_accs  23.929358; -102.046570; -943.732422;phys_gyros   0.060634; -0.040731; -0.068629; ; frame_size 2141;video_stream.frame_number 35339;  hdvideo_stream.frame_number: 0 ; 1431378143.889996 
+
+;navdata_time 1245.967590;nd_seq 247552; raw_accs 2076; 2044; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  26.176476; -102.095291; -944.808105;phys_gyros   0.047296; -0.051935; -0.052108; ; frame_size 2141;video_stream.frame_number 35339;  hdvideo_stream.frame_number: 0 ; 1431378143.895409 
+
+;navdata_time 1245.972351;nd_seq 247553; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  25.658678; -102.057487; -945.073730;phys_gyros   0.047587; -0.049230; -0.062206; ; frame_size 2141;video_stream.frame_number 35339;  hdvideo_stream.frame_number: 0 ; 1431378143.901083 
+
+;navdata_time 1245.977416;nd_seq 247554; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0056;-007 ;phys_accs  26.286705; -102.056305; -944.846191;phys_gyros   0.048528; -0.026053; -0.002043; ; frame_size 2141;video_stream.frame_number 35339;  hdvideo_stream.frame_number: 0 ; 1431378143.905144 
+
+;navdata_time 1245.982208;nd_seq 247555; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-006 ;phys_accs  21.263933; -101.964027; -943.724121;phys_gyros   0.054692; -0.042927;  0.006396; ; frame_size 2141;video_stream.frame_number 35339;  hdvideo_stream.frame_number: 0 ; 1431378143.910989 
+
+;navdata_time 1245.987274;nd_seq 247556; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0052;-006 ;phys_accs  19.342031; -101.940842; -944.185547;phys_gyros   0.047300; -0.008009;  0.002364; ; frame_size 2097;video_stream.frame_number 35340;  hdvideo_stream.frame_number: 0 ; 1431378143.917352 
+
+;navdata_time 1245.992279;nd_seq 247557; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-007 ;phys_accs  18.196600; -101.952957; -944.219238;phys_gyros   0.046920; -0.005474;  0.001352; ; frame_size 2097;video_stream.frame_number 35340;  hdvideo_stream.frame_number: 0 ; 1431378143.920048 
+
+;navdata_time 1245.997467;nd_seq 247558; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-006 ;phys_accs  18.782564; -102.007469; -945.889648;phys_gyros   0.076543;  0.027902; -0.039216; ; frame_size 2097;video_stream.frame_number 35340;  hdvideo_stream.frame_number: 0 ; 1431378143.926113 
+
+;navdata_time 1246.002502;nd_seq 247559; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-007 ;phys_accs  21.274588; -102.098129; -947.821289;phys_gyros   0.076385;  0.016293;  0.010819; ; frame_size 2097;video_stream.frame_number 35340;  hdvideo_stream.frame_number: 0 ; 1431378143.930445 
+
+;navdata_time 1246.007446;nd_seq 247560; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0052;-007 ;phys_accs  19.934280; -102.105652; -949.375488;phys_gyros   0.105350;  0.014263; -0.008606; ; frame_size 2097;video_stream.frame_number 35340;  hdvideo_stream.frame_number: 0 ; 1431378143.935217 
+
+;navdata_time 1246.012451;nd_seq 247561; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-006 ;phys_accs  20.318676; -102.105728; -949.294434;phys_gyros   0.072575;  0.001645;  0.027630; ; frame_size 2097;video_stream.frame_number 35340;  hdvideo_stream.frame_number: 0 ; 1431378143.940222 
+
+;navdata_time 1246.017395;nd_seq 247562; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0052;-007 ;phys_accs  19.259897; -102.037796; -946.396973;phys_gyros   0.046734;  0.049369;  0.014078; ; frame_size 1963;video_stream.frame_number 35341;  hdvideo_stream.frame_number: 0 ; 1431378143.945149 
+
+;navdata_time 1246.022399;nd_seq 247563; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-006 ;phys_accs  19.495926; -101.993149; -944.177734;phys_gyros   0.003127;  0.052747; -0.010064; ; frame_size 1963;video_stream.frame_number 35341;  hdvideo_stream.frame_number: 0 ; 1431378143.953674 
+
+;navdata_time 1246.027465;nd_seq 247564; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-006 ;phys_accs  20.135641; -101.964958; -942.427246;phys_gyros  -0.028647;  0.048336; -0.001166; ; frame_size 1963;video_stream.frame_number 35341;  hdvideo_stream.frame_number: 0 ; 1431378143.956340 
+
+;navdata_time 1246.032562;nd_seq 247565; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-007 ;phys_accs  19.773022; -101.969154; -943.591797;phys_gyros  -0.018326; -0.021592; -0.029009; ; frame_size 1963;video_stream.frame_number 35341;  hdvideo_stream.frame_number: 0 ; 1431378143.962259 
+
+;navdata_time 1246.037780;nd_seq 247566; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-005 ;phys_accs  20.033342; -102.001205; -944.712402;phys_gyros   0.014084; -0.074941; -0.020540; ; frame_size 1963;video_stream.frame_number 35341;  hdvideo_stream.frame_number: 0 ; 1431378143.965400 
+
+;navdata_time 1246.042694;nd_seq 247567; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-005 ;phys_accs  19.716177; -102.028854; -944.886719;phys_gyros   0.058618; -0.050347; -0.036616; ; frame_size 1963;video_stream.frame_number 35341;  hdvideo_stream.frame_number: 0 ; 1431378143.970598 
+
+;navdata_time 1246.047546;nd_seq 247568; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0055;-006 ;phys_accs  19.739899; -102.062492; -944.738281;phys_gyros   0.093290; -0.033132; -0.067792; ; frame_size 1963;video_stream.frame_number 35341;  hdvideo_stream.frame_number: 0 ; 1431378143.976063 
+
+;navdata_time 1246.052551;nd_seq 247569; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  19.989765; -102.077278; -943.727051;phys_gyros   0.094952;  0.036002; -0.045498; ; frame_size 1968;video_stream.frame_number 35342;  hdvideo_stream.frame_number: 0 ; 1431378143.980319 
+
+;navdata_time 1246.057525;nd_seq 247570; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0053;-007 ;phys_accs  19.892756; -102.079536; -944.178711;phys_gyros   0.101294;  0.007894; -0.037245; ; frame_size 1968;video_stream.frame_number 35342;  hdvideo_stream.frame_number: 0 ; 1431378143.988020 
+
+;navdata_time 1246.062622;nd_seq 247571; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-008 ;phys_accs  20.055761; -102.054962; -944.272949;phys_gyros   0.085818;  0.002496;  0.032950; ; frame_size 1968;video_stream.frame_number 35342;  hdvideo_stream.frame_number: 0 ; 1431378143.992026 
+
+;navdata_time 1246.067840;nd_seq 247572; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0052;-005 ;phys_accs  19.963810; -102.007790; -944.398926;phys_gyros   0.053334; -0.003863;  0.041462; ; frame_size 1968;video_stream.frame_number 35342;  hdvideo_stream.frame_number: 0 ; 1431378143.995660 
+
+;navdata_time 1246.072631;nd_seq 247573; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0052;-007 ;phys_accs  19.932457; -101.958786; -944.476074;phys_gyros   0.007101;  0.007726;  0.038664; ; frame_size 1968;video_stream.frame_number 35342;  hdvideo_stream.frame_number: 0 ; 1431378144.000337 
+
+;navdata_time 1246.077911;nd_seq 247574; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  19.972044; -101.918610; -944.164062;phys_gyros  -0.046106;  0.047628; -0.013253; ; frame_size 1968;video_stream.frame_number 35342;  hdvideo_stream.frame_number: 0 ; 1431378144.005618 
+
+;navdata_time 1246.082794;nd_seq 247575; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  19.881201; -101.908241; -944.279297;phys_gyros  -0.038524;  0.024701; -0.024044; ; frame_size 2205;video_stream.frame_number 35343;  hdvideo_stream.frame_number: 0 ; 1431378144.010508 
+
+;navdata_time 1246.087768;nd_seq 247576; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-006 ;phys_accs  19.903793; -101.930664; -944.269531;phys_gyros  -0.012203; -0.020386; -0.027156; ; frame_size 2205;video_stream.frame_number 35343;  hdvideo_stream.frame_number: 0 ; 1431378144.015744 
+
+;navdata_time 1246.092773;nd_seq 247577; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-007 ;phys_accs  19.848721; -101.980446; -944.298828;phys_gyros   0.050290; -0.027840;  0.004013; ; frame_size 2205;video_stream.frame_number 35343;  hdvideo_stream.frame_number: 0 ; 1431378144.020611 
+
+;navdata_time 1246.097961;nd_seq 247578; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-007 ;phys_accs  19.825251; -102.042641; -944.358887;phys_gyros   0.076520; -0.034283;  0.025708; ; frame_size 2205;video_stream.frame_number 35343;  hdvideo_stream.frame_number: 0 ; 1431378144.025855 
+
+;navdata_time 1246.102935;nd_seq 247579; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.852118; -102.092018; -944.260742;phys_gyros   0.074325;  0.047248;  0.002795; ; frame_size 2205;video_stream.frame_number 35343;  hdvideo_stream.frame_number: 0 ; 1431378144.031140 
+
+;navdata_time 1246.107971;nd_seq 247580; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0053;-008 ;phys_accs  19.830868; -102.130013; -945.790039;phys_gyros   0.068028;  0.068004;  0.038209; ; frame_size 2205;video_stream.frame_number 35343;  hdvideo_stream.frame_number: 0 ; 1431378144.035719 
+
+;navdata_time 1246.112884;nd_seq 247581; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0053;-006 ;phys_accs  19.855871; -102.136673; -947.606934;phys_gyros   0.029420;  0.051723; -0.011568; ; frame_size 2429;video_stream.frame_number 35344;  hdvideo_stream.frame_number: 0 ; 1431378144.041035 
+
+;navdata_time 1246.118103;nd_seq 247582; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0051;-007 ;phys_accs  19.826464; -102.135361; -950.997559;phys_gyros   0.048064;  0.068065;  0.044582; ; frame_size 2429;video_stream.frame_number 35344;  hdvideo_stream.frame_number: 0 ; 1431378144.046350 
+
+;navdata_time 1246.123077;nd_seq 247583; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.820133; -102.086739; -951.144043;phys_gyros   0.026971;  0.007125;  0.015791; ; frame_size 2429;video_stream.frame_number 35344;  hdvideo_stream.frame_number: 0 ; 1431378144.056256 
+
+;navdata_time 1246.127990;nd_seq 247584; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-006 ;phys_accs  19.812355; -102.047005; -951.311523;phys_gyros   0.053968;  0.056830;  0.031659; ; frame_size 2429;video_stream.frame_number 35344;  hdvideo_stream.frame_number: 0 ; 1431378144.056928 
+
+;navdata_time 1246.133148;nd_seq 247585; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-007 ;phys_accs  19.807875; -101.996887; -949.104980;phys_gyros   0.068800; -0.003725;  0.041052; ; frame_size 2429;video_stream.frame_number 35344;  hdvideo_stream.frame_number: 0 ; 1431378144.062712 
+
+;navdata_time 1246.138031;nd_seq 247586; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0054;-007 ;phys_accs  19.796700; -101.998711; -949.607910;phys_gyros   0.075531; -0.038241;  0.002141; ; frame_size 2429;video_stream.frame_number 35344;  hdvideo_stream.frame_number: 0 ; 1431378144.065531 
+
+;navdata_time 1246.143096;nd_seq 247587; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-008 ;phys_accs  19.774988; -102.027740; -951.279785;phys_gyros   0.097203; -0.045148;  0.052949; ; frame_size 2429;video_stream.frame_number 35344;  hdvideo_stream.frame_number: 0 ; 1431378144.070846 
+
+;navdata_time 1246.148101;nd_seq 247588; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-004 ;phys_accs  19.793221; -102.034500; -950.800293;phys_gyros   0.064457; -0.046820; -0.016453; ; frame_size 1879;video_stream.frame_number 35345;  hdvideo_stream.frame_number: 0 ; 1431378144.076183 
+
+;navdata_time 1246.153045;nd_seq 247589; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-007 ;phys_accs  19.831417; -102.039970; -950.384766;phys_gyros   0.067577;  0.018891;  0.019516; ; frame_size 1879;video_stream.frame_number 35345;  hdvideo_stream.frame_number: 0 ; 1431378144.081814 
+
+;navdata_time 1246.158325;nd_seq 247590; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  19.927094; -101.977051; -944.750000;phys_gyros   0.036202;  0.008212; -0.043418; ; frame_size 1879;video_stream.frame_number 35345;  hdvideo_stream.frame_number: 0 ; 1431378144.086227 
+
+;navdata_time 1246.163696;nd_seq 247591; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0054;-005 ;phys_accs  19.974457; -101.969276; -943.732910;phys_gyros   0.059986; -0.027475; -0.051087; ; frame_size 1879;video_stream.frame_number 35345;  hdvideo_stream.frame_number: 0 ; 1431378144.091798 
+
+;navdata_time 1246.168273;nd_seq 247592; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-008 ;phys_accs  20.005810; -101.958748; -942.292480;phys_gyros   0.057574; -0.046047; -0.019858; ; frame_size 1879;video_stream.frame_number 35345;  hdvideo_stream.frame_number: 0 ; 1431378144.096539 
+
+;navdata_time 1246.173248;nd_seq 247593; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.983955; -101.990036; -943.984863;phys_gyros   0.081476; -0.041479; -0.031945; ; frame_size 1879;video_stream.frame_number 35345;  hdvideo_stream.frame_number: 0 ; 1431378144.101097 
+
+;navdata_time 1246.178344;nd_seq 247594; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  19.955360; -102.019424; -945.380859;phys_gyros   0.049909; -0.005880;  0.055104; ; frame_size 1879;video_stream.frame_number 35345;  hdvideo_stream.frame_number: 0 ; 1431378144.106245 
+
+;navdata_time 1246.183288;nd_seq 247595; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0055;-008 ;phys_accs  19.947229; -102.015587; -944.343750;phys_gyros   0.018142;  0.012143;  0.020347; ; frame_size 1938;video_stream.frame_number 35346;  hdvideo_stream.frame_number: 0 ; 1431378144.111030 
+
+;navdata_time 1246.188446;nd_seq 247596; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0055;-005 ;phys_accs  19.910154; -102.043571; -946.256348;phys_gyros  -0.026835; -0.053844;  0.026366; ; frame_size 1938;video_stream.frame_number 35346;  hdvideo_stream.frame_number: 0 ; 1431378144.116100 
+
+;navdata_time 1246.193450;nd_seq 247597; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0053;-006 ;phys_accs  19.885288; -102.054962; -946.905762;phys_gyros  -0.065624; -0.056404; -0.004510; ; frame_size 1938;video_stream.frame_number 35346;  hdvideo_stream.frame_number: 0 ; 1431378144.123348 
+
+;navdata_time 1246.198760;nd_seq 247598; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-005 ;phys_accs  19.841677; -102.094856; -949.429199;phys_gyros  -0.030438; -0.096108; -0.070938; ; frame_size 1938;video_stream.frame_number 35346;  hdvideo_stream.frame_number: 0 ; 1431378144.126445 
+
+;navdata_time 1246.203552;nd_seq 247599; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0051;-007 ;phys_accs  19.833021; -102.115753; -949.504883;phys_gyros  -0.011205;  0.002054; -0.033174; ; frame_size 1938;video_stream.frame_number 35346;  hdvideo_stream.frame_number: 0 ; 1431378144.132336 
+
+;navdata_time 1246.208465;nd_seq 247600; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0053;-007 ;phys_accs  19.853680; -102.123802; -947.887207;phys_gyros   0.074139;  0.036372; -0.057128; ; frame_size 1938;video_stream.frame_number 35346;  hdvideo_stream.frame_number: 0 ; 1431378144.136286 
+
+;navdata_time 1246.213531;nd_seq 247601; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-006 ;phys_accs  19.866800; -102.145615; -947.717285;phys_gyros   0.098806;  0.088902;  0.001302; ; frame_size 1938;video_stream.frame_number 35346;  hdvideo_stream.frame_number: 0 ; 1431378144.141956 
+
+;navdata_time 1246.218505;nd_seq 247602; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-004 ;phys_accs  19.858973; -102.165207; -948.885254;phys_gyros   0.110209;  0.061348; -0.002605; ; frame_size 1899;video_stream.frame_number 35347;  hdvideo_stream.frame_number: 0 ; 1431378144.146125 
+
+;navdata_time 1246.223480;nd_seq 247603; raw_accs 2072; 2048; 2544; raw_gyros 0045; 0054;-008 ;phys_accs  19.784761; -103.716667; -951.922852;phys_gyros   0.070851;  0.005347; -0.029830; ; frame_size 1899;video_stream.frame_number 35347;  hdvideo_stream.frame_number: 0 ; 1431378144.152094 
+
+;navdata_time 1246.228668;nd_seq 247604; raw_accs 2072; 2048; 2544; raw_gyros 0047; 0055;-005 ;phys_accs  19.700661; -105.572731; -953.630371;phys_gyros   0.026423; -0.023894; -0.041855; ; frame_size 1899;video_stream.frame_number 35347;  hdvideo_stream.frame_number: 0 ; 1431378144.158585 
+
+;navdata_time 1246.233673;nd_seq 247605; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-006 ;phys_accs  19.634554; -107.461250; -953.081055;phys_gyros  -0.000775; -0.076901; -0.056369; ; frame_size 1899;video_stream.frame_number 35347;  hdvideo_stream.frame_number: 0 ; 1431378144.162288 
+
+;navdata_time 1246.238800;nd_seq 247606; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-008 ;phys_accs  19.631239; -107.161301; -951.779785;phys_gyros   0.003301; -0.028176; -0.016832; ; frame_size 1899;video_stream.frame_number 35347;  hdvideo_stream.frame_number: 0 ; 1431378144.166440 
+
+;navdata_time 1246.243652;nd_seq 247607; raw_accs 2072; 2048; 2544; raw_gyros 0046; 0054;-006 ;phys_accs  19.669146; -105.728897; -951.206055;phys_gyros   0.018426; -0.036304;  0.003883; ; frame_size 1899;video_stream.frame_number 35347;  hdvideo_stream.frame_number: 0 ; 1431378144.171755 
+
+;navdata_time 1246.243652;nd_seq 247608; raw_accs 2072; 2048; 2544; raw_gyros 0046; 0054;-006 ;phys_accs  19.669146; -105.728897; -951.206055;phys_gyros   0.018426; -0.036304;  0.003883; ; frame_size 3521;video_stream.frame_number 35348;  hdvideo_stream.frame_number: 0 ; 1431378144.177667 
+
+;navdata_time 1246.248779;nd_seq 247609; raw_accs 2072; 2048; 2544; raw_gyros 0046; 0054;-007 ;phys_accs  19.707184; -105.289207; -951.525391;phys_gyros   0.016065;  0.018130;  0.041822; ; frame_size 3521;video_stream.frame_number 35348;  hdvideo_stream.frame_number: 0 ; 1431378144.178389 
+
+;navdata_time 1246.253662;nd_seq 247610; raw_accs 2072; 2048; 2544; raw_gyros 0046; 0053;-007 ;phys_accs  19.714661; -106.960510; -952.448730;phys_gyros   0.021807;  0.003843;  0.007683; ; frame_size 3521;video_stream.frame_number 35348;  hdvideo_stream.frame_number: 0 ; 1431378144.183611 
+
+;navdata_time 1246.258789;nd_seq 247611; raw_accs 2072; 2048; 2544; raw_gyros 0048; 0053;-006 ;phys_accs  19.705254; -109.978607; -952.194824;phys_gyros   0.016371;  0.011664;  0.030035; ; frame_size 3521;video_stream.frame_number 35348;  hdvideo_stream.frame_number: 0 ; 1431378144.186467 
+
+;navdata_time 1246.258789;nd_seq 247612; raw_accs 2072; 2048; 2544; raw_gyros 0048; 0053;-006 ;phys_accs  19.705254; -109.978607; -952.194824;phys_gyros   0.016371;  0.011664;  0.030035; ; frame_size 3521;video_stream.frame_number 35348;  hdvideo_stream.frame_number: 0 ; 1431378144.192183 
+
+;navdata_time 1246.263977;nd_seq 247613; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-006 ;phys_accs  19.727457; -110.142990; -952.102539;phys_gyros   0.043044;  0.008849; -0.022156; ; frame_size 3521;video_stream.frame_number 35348;  hdvideo_stream.frame_number: 0 ; 1431378144.192785 
+
+;navdata_time 1246.268859;nd_seq 247614; raw_accs 2076; 2044; 2544; raw_gyros 0048; 0055;-006 ;phys_accs  21.316240; -107.837112; -951.873535;phys_gyros   0.076235; -0.010043; -0.015763; ; frame_size 3521;video_stream.frame_number 35348;  hdvideo_stream.frame_number: 0 ; 1431378144.714757 
+
+;navdata_time 1246.273773;nd_seq 247615; raw_accs 2076; 2044; 2544; raw_gyros 0044; 0054;-006 ;phys_accs  23.281599; -102.909203; -951.874023;phys_gyros   0.048138; -0.018028; -0.032705; ; frame_size 3521;video_stream.frame_number 35348;  hdvideo_stream.frame_number: 0 ; 1431378144.715248 
+
+;navdata_time 1246.278991;nd_seq 247616; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-008 ;phys_accs  25.256393; -100.840752; -952.156250;phys_gyros   0.030969; -0.050511; -0.024952; ; frame_size 3640;video_stream.frame_number 35349;  hdvideo_stream.frame_number: 0 ; 1431378144.715545 
+
+;navdata_time 1246.278991;nd_seq 247617; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-008 ;phys_accs  25.256393; -100.840752; -952.156250;phys_gyros   0.030969; -0.050511; -0.024952; ; frame_size 3640;video_stream.frame_number 35349;  hdvideo_stream.frame_number: 0 ; 1431378144.715687 
+
+;navdata_time 1246.283813;nd_seq 247618; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0055;-006 ;phys_accs  25.009237; -100.543053; -952.088379;phys_gyros  -0.059002; -0.056923;  0.007673; ; frame_size 3640;video_stream.frame_number 35349;  hdvideo_stream.frame_number: 0 ; 1431378144.736140 
+
+;navdata_time 1246.288879;nd_seq 247619; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0052;-007 ;phys_accs  22.022623; -102.057755; -952.057129;phys_gyros  -0.067381; -0.026957;  0.024686; ; frame_size 3640;video_stream.frame_number 35349;  hdvideo_stream.frame_number: 0 ; 1431378144.736335 
+
+;navdata_time 1246.294006;nd_seq 247620; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.676332; -103.056900; -950.457520;phys_gyros  -0.043706; -0.004463;  0.027531; ; frame_size 3640;video_stream.frame_number 35349;  hdvideo_stream.frame_number: 0 ; 1431378144.736502 
+
+;navdata_time 1246.298797;nd_seq 247621; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0052;-006 ;phys_accs  17.844624; -102.214485; -948.553223;phys_gyros  -0.019007;  0.070190;  0.020743; ; frame_size 3640;video_stream.frame_number 35349;  hdvideo_stream.frame_number: 0 ; 1431378144.736664 
+
+;navdata_time 1246.303924;nd_seq 247622; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-005 ;phys_accs  19.212488; -102.231689; -945.261230;phys_gyros   0.052763;  0.062639; -0.021333; ; frame_size 3640;video_stream.frame_number 35349;  hdvideo_stream.frame_number: 0 ; 1431378144.738363 
+
+;navdata_time 1246.308959;nd_seq 247623; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-007 ;phys_accs  20.351658; -101.399017; -943.651367;phys_gyros   0.016083;  0.069572; -0.033031; ; frame_size 3640;video_stream.frame_number 35349;  hdvideo_stream.frame_number: 0 ; 1431378144.738429 
+
+;navdata_time 1246.313903;nd_seq 247624; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-008 ;phys_accs  20.537638; -102.045792; -943.134277;phys_gyros   0.042018;  0.012630; -0.015980; ; frame_size 4014;video_stream.frame_number 35350;  hdvideo_stream.frame_number: 0 ; 1431378144.739457 
+
+;navdata_time 1246.319183;nd_seq 247625; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-008 ;phys_accs  20.333881; -102.239677; -943.781738;phys_gyros   0.014242; -0.045477;  0.018500; ; frame_size 4014;video_stream.frame_number 35350;  hdvideo_stream.frame_number: 0 ; 1431378144.744210 
+
+;navdata_time 1246.324127;nd_seq 247626; raw_accs 2068; 2044; 2540; raw_gyros 0048; 0053;-007 ;phys_accs  17.669138; -102.050156; -944.984863;phys_gyros   0.040450; -0.041089;  0.080485; ; frame_size 4014;video_stream.frame_number 35350;  hdvideo_stream.frame_number: 0 ; 1431378144.745325 
+
+;navdata_time 1246.329193;nd_seq 247627; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-008 ;phys_accs  17.813763; -102.118675; -944.398438;phys_gyros   0.048117; -0.040767;  0.090704; ; frame_size 4014;video_stream.frame_number 35350;  hdvideo_stream.frame_number: 0 ; 1431378144.749969 
+
+;navdata_time 1246.334014;nd_seq 247628; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-008 ;phys_accs  16.288832; -101.745224; -944.563965;phys_gyros   0.055615;  0.015592;  0.090241; ; frame_size 4014;video_stream.frame_number 35350;  hdvideo_stream.frame_number: 0 ; 1431378144.750637 
+
+;navdata_time 1246.339172;nd_seq 247629; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-008 ;phys_accs  18.315434; -101.895599; -943.798340;phys_gyros   0.030796;  0.019801;  0.074822; ; frame_size 4014;video_stream.frame_number 35350;  hdvideo_stream.frame_number: 0 ; 1431378144.751005 
+
+;navdata_time 1246.344116;nd_seq 247630; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0053;-005 ;phys_accs  19.534504; -101.952530; -944.183594;phys_gyros   0.040774;  0.006394;  0.038253; ; frame_size 3586;video_stream.frame_number 35351;  hdvideo_stream.frame_number: 0 ; 1431378144.751458 
+
+;navdata_time 1246.349151;nd_seq 247631; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  20.474253; -101.921257; -944.424316;phys_gyros   0.035404;  0.001435;  0.045360; ; frame_size 3586;video_stream.frame_number 35351;  hdvideo_stream.frame_number: 0 ; 1431378144.751798 
+
+;navdata_time 1246.354156;nd_seq 247632; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0055;-007 ;phys_accs  21.229603; -103.552452; -944.328125;phys_gyros   0.076445; -0.024450;  0.009055; ; frame_size 3586;video_stream.frame_number 35351;  hdvideo_stream.frame_number: 0 ; 1431378144.752112 
+
+;navdata_time 1246.786590;nd_seq 247718; raw_accs 2068; 2044; 2540; raw_gyros 0046; 0052;-008 ;phys_accs  18.370663; -101.870522; -943.581055;phys_gyros   0.044953;  0.069322;  0.000057; ; frame_size 3539;video_stream.frame_number 35364;  hdvideo_stream.frame_number: 0 ; 1431378144.752464 
+
+;navdata_time 1246.791961;nd_seq 247719; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  17.994495; -101.753242; -945.119629;phys_gyros   0.039512;  0.055383;  0.053772; ; frame_size 3539;video_stream.frame_number 35364;  hdvideo_stream.frame_number: 0 ; 1431378144.752697 
+
+;navdata_time 1246.796508;nd_seq 247720; raw_accs 2072; 2044; 2536; raw_gyros 0045; 0055;-006 ;phys_accs  16.385685; -102.197426; -942.904297;phys_gyros   0.011548;  0.036950;  0.069737; ; frame_size 3539;video_stream.frame_number 35364;  hdvideo_stream.frame_number: 0 ; 1431378144.752962 
+
+;navdata_time 1246.801757;nd_seq 247721; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  18.214188; -102.095329; -942.747559;phys_gyros  -0.000284; -0.013181;  0.065121; ; frame_size 3391;video_stream.frame_number 35365;  hdvideo_stream.frame_number: 0 ; 1431378144.753634 
+
+;navdata_time 1246.806610;nd_seq 247722; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0051;-008 ;phys_accs  19.324007; -101.986885; -940.450195;phys_gyros  -0.051456; -0.037603;  0.001343; ; frame_size 3391;video_stream.frame_number 35365;  hdvideo_stream.frame_number: 0 ; 1431378144.754017 
+
+;navdata_time 1246.811584;nd_seq 247723; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-007 ;phys_accs  20.538427; -101.940903; -942.537109;phys_gyros  -0.028410;  0.009539;  0.016517; ; frame_size 3391;video_stream.frame_number 35365;  hdvideo_stream.frame_number: 0 ; 1431378144.754554 
+
+;navdata_time 1246.816772;nd_seq 247724; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  21.165329; -101.823776; -943.933105;phys_gyros  -0.038569;  0.034986;  0.021648; ; frame_size 3391;video_stream.frame_number 35365;  hdvideo_stream.frame_number: 0 ; 1431378144.754858 
+
+;navdata_time 1246.821685;nd_seq 247725; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  19.222631; -101.954002; -944.948242;phys_gyros  -0.023571;  0.039503;  0.024653; ; frame_size 3391;video_stream.frame_number 35365;  hdvideo_stream.frame_number: 0 ; 1431378144.755116 
+
+;navdata_time 1246.821685;nd_seq 247726; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  19.222631; -101.954002; -944.948242;phys_gyros  -0.023571;  0.039503;  0.024653; ; frame_size 3391;video_stream.frame_number 35365;  hdvideo_stream.frame_number: 0 ; 1431378144.755401 
+
+;navdata_time 1246.826751;nd_seq 247727; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-007 ;phys_accs  20.089939; -101.969078; -945.719238;phys_gyros  -0.003345; -0.018483;  0.016679; ; frame_size 3391;video_stream.frame_number 35365;  hdvideo_stream.frame_number: 0 ; 1431378144.755643 
+
+;navdata_time 1246.831726;nd_seq 247728; raw_accs 2072; 2044; 2540; raw_gyros 0044; 0053;-007 ;phys_accs  19.076420; -101.962799; -943.567871;phys_gyros  -0.041856; -0.049094; -0.020899; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.759836 
+
+;navdata_time 1246.836730;nd_seq 247729; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-006 ;phys_accs  20.280682; -102.050674; -945.947266;phys_gyros  -0.028440; -0.026752; -0.010488; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.764469 
+
+;navdata_time 1246.841979;nd_seq 247730; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0053;-006 ;phys_accs  20.137897; -102.034096; -946.843262;phys_gyros  -0.037329;  0.035102; -0.002575; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.793244 
+
+;navdata_time 1246.841979;nd_seq 247731; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0053;-006 ;phys_accs  20.137897; -102.034096; -946.843262;phys_gyros  -0.037329;  0.035102; -0.002575; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.795234 
+
+;navdata_time 1246.846893;nd_seq 247732; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-005 ;phys_accs  19.730509; -102.144058; -951.344238;phys_gyros   0.006955;  0.068202; -0.020642; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.795845 
+
+;navdata_time 1246.852111;nd_seq 247733; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-005 ;phys_accs  20.007610; -102.159164; -952.896973;phys_gyros   0.058078;  0.064404; -0.046251; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.796411 
+
+;navdata_time 1246.856933;nd_seq 247734; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  19.582399; -102.131554; -951.510254;phys_gyros   0.058673;  0.014145; -0.090175; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.796959 
+
+;navdata_time 1246.861877;nd_seq 247735; raw_accs 2076; 2044; 2540; raw_gyros 0047; 0056;-006 ;phys_accs  21.475777; -102.127556; -949.341309;phys_gyros   0.064997; -0.026943; -0.081144; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.797501 
+
+;navdata_time 1246.861877;nd_seq 247736; raw_accs 2076; 2044; 2540; raw_gyros 0047; 0056;-006 ;phys_accs  21.475777; -102.127556; -949.341309;phys_gyros   0.064997; -0.026943; -0.081144; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.798058 
+
+;navdata_time 1246.866821;nd_seq 247737; raw_accs 2076; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  23.377045; -102.049507; -944.326172;phys_gyros   0.028864; -0.054665; -0.037047; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.798622 
+
+;navdata_time 1246.871948;nd_seq 247738; raw_accs 2076; 2044; 2540; raw_gyros 0046; 0052;-007 ;phys_accs  26.746752; -102.081902; -943.711914;phys_gyros   0.024661; -0.051665; -0.000099; ; frame_size 3813;video_stream.frame_number 35366;  hdvideo_stream.frame_number: 0 ; 1431378144.799499 
+
+;navdata_time 1246.876922;nd_seq 247739; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  27.011223; -102.036362; -942.987305;phys_gyros   0.025287; -0.023508;  0.032177; ; frame_size 17056;video_stream.frame_number 35367;  hdvideo_stream.frame_number: 0 ; 1431378144.806463 
+
+;navdata_time 1246.882629;nd_seq 247740; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0052;-007 ;phys_accs  25.512487; -102.004623; -944.296875;phys_gyros  -0.003283;  0.040049;  0.020347; ; frame_size 17056;video_stream.frame_number 35367;  hdvideo_stream.frame_number: 0 ; 1431378144.817934 
+
+;navdata_time 1246.887603;nd_seq 247741; raw_accs 2072; 2044; 2540; raw_gyros 0049; 0052;-006 ;phys_accs  21.453327; -101.942917; -945.256348;phys_gyros   0.031167;  0.067825; -0.004807; ; frame_size 17056;video_stream.frame_number 35367;  hdvideo_stream.frame_number: 0 ; 1431378144.819175 
+
+;navdata_time 1246.892089;nd_seq 247742; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-006 ;phys_accs  18.510672; -101.886681; -944.202148;phys_gyros   0.023724;  0.073081; -0.011763; ; frame_size 17056;video_stream.frame_number 35367;  hdvideo_stream.frame_number: 0 ; 1431378144.819984 
+
+;navdata_time 1246.897125;nd_seq 247743; raw_accs 2072; 2044; 2540; raw_gyros 0049; 0053;-006 ;phys_accs  18.543697; -101.931038; -944.627930;phys_gyros   0.125531;  0.035764; -0.037935; ; frame_size 5008;video_stream.frame_number 35368;  hdvideo_stream.frame_number: 0 ; 1431378144.825072 
+
+;navdata_time 1246.902099;nd_seq 247744; raw_accs 2072; 2048; 2540; raw_gyros 0045; 0053;-006 ;phys_accs  19.039661; -103.501122; -943.687988;phys_gyros   0.103766; -0.009784; -0.025860; ; frame_size 5008;video_stream.frame_number 35368;  hdvideo_stream.frame_number: 0 ; 1431378144.831151 
+
+;navdata_time 1246.902099;nd_seq 247745; raw_accs 2072; 2048; 2540; raw_gyros 0045; 0053;-006 ;phys_accs  19.039661; -103.501122; -943.687988;phys_gyros   0.103766; -0.009784; -0.025860; ; frame_size 5008;video_stream.frame_number 35368;  hdvideo_stream.frame_number: 0 ; 1431378144.832915 
+
+;navdata_time 1246.907073;nd_seq 247746; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-005 ;phys_accs  21.089264; -103.919868; -944.310547;phys_gyros   0.106374; -0.013111; -0.046219; ; frame_size 5008;video_stream.frame_number 35368;  hdvideo_stream.frame_number: 0 ; 1431378144.838864 
+
+;navdata_time 1246.912353;nd_seq 247747; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  20.049459; -105.517410; -944.507324;phys_gyros   0.030407; -0.030688; -0.027954; ; frame_size 5008;video_stream.frame_number 35368;  hdvideo_stream.frame_number: 0 ; 1431378144.840518 
+
+;navdata_time 1246.917266;nd_seq 247748; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  20.048180; -103.651581; -944.250977;phys_gyros  -0.020370; -0.011974; -0.010716; ; frame_size 5008;video_stream.frame_number 35368;  hdvideo_stream.frame_number: 0 ; 1431378144.845096 
+
+;navdata_time 1246.922393;nd_seq 247749; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-006 ;phys_accs  19.325232; -102.538124; -945.958984;phys_gyros   0.020184; -0.001530;  0.015740; ; frame_size 5008;video_stream.frame_number 35368;  hdvideo_stream.frame_number: 0 ; 1431378144.850244 
+
+;navdata_time 1246.927612;nd_seq 247750; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0054;-004 ;phys_accs  19.585152; -102.827873; -945.961914;phys_gyros  -0.010232;  0.000512;  0.000100; ; frame_size 3798;video_stream.frame_number 35369;  hdvideo_stream.frame_number: 0 ; 1431378144.858303 
+
+;navdata_time 1246.932373;nd_seq 247751; raw_accs 2072; 2048; 2544; raw_gyros 0047; 0055;-008 ;phys_accs  20.042427; -104.142540; -949.176758;phys_gyros   0.069344;  0.009909; -0.014043; ; frame_size 3798;video_stream.frame_number 35369;  hdvideo_stream.frame_number: 0 ; 1431378144.859882 
+
+;navdata_time 1246.937347;nd_seq 247752; raw_accs 2072; 2048; 2544; raw_gyros 0045; 0054;-008 ;phys_accs  19.770275; -109.617226; -949.311035;phys_gyros  -0.004206; -0.025042; -0.029836; ; frame_size 3798;video_stream.frame_number 35369;  hdvideo_stream.frame_number: 0 ; 1431378144.867446 
+
+;navdata_time 1246.942321;nd_seq 247753; raw_accs 2072; 2048; 2544; raw_gyros 0048; 0053;-007 ;phys_accs  19.841095; -110.488953; -951.552246;phys_gyros   0.044810; -0.034229;  0.009347; ; frame_size 3798;video_stream.frame_number 35369;  hdvideo_stream.frame_number: 0 ; 1431378144.869871 
+
+;navdata_time 1246.947448;nd_seq 247754; raw_accs 2072; 2048; 2544; raw_gyros 0045; 0054;-005 ;phys_accs  19.585169; -112.130013; -952.074219;phys_gyros   0.002991; -0.032769;  0.039932; ; frame_size 3798;video_stream.frame_number 35369;  hdvideo_stream.frame_number: 0 ; 1431378144.878602 
+
+;navdata_time 1246.952392;nd_seq 247755; raw_accs 2072; 2048; 2544; raw_gyros 0044; 0054;-008 ;phys_accs  19.623133; -110.238770; -951.871582;phys_gyros   0.006349; -0.017172;  0.046658; ; frame_size 3798;video_stream.frame_number 35369;  hdvideo_stream.frame_number: 0 ; 1431378144.879995 
+
+;navdata_time 1246.957397;nd_seq 247756; raw_accs 2072; 2048; 2544; raw_gyros 0047; 0054;-005 ;phys_accs  19.772100; -109.079399; -953.135742;phys_gyros  -0.003203;  0.002588;  0.002683; ; frame_size 3798;video_stream.frame_number 35369;  hdvideo_stream.frame_number: 0 ; 1431378144.885264 
+
+;navdata_time 1246.962585;nd_seq 247757; raw_accs 2072; 2048; 2544; raw_gyros 0047; 0055;-007 ;phys_accs  19.699102; -110.041893; -951.064453;phys_gyros  -0.034783; -0.020349; -0.027619; ; frame_size 3706;video_stream.frame_number 35370;  hdvideo_stream.frame_number: 0 ; 1431378144.890125 
+
+;navdata_time 1246.962585;nd_seq 247758; raw_accs 2072; 2048; 2544; raw_gyros 0047; 0055;-007 ;phys_accs  19.699102; -110.041893; -951.064453;phys_gyros  -0.034783; -0.020349; -0.027619; ; frame_size 3706;video_stream.frame_number 35370;  hdvideo_stream.frame_number: 0 ; 1431378144.893401 
+
+;navdata_time 1246.967681;nd_seq 247759; raw_accs 2072; 2048; 2544; raw_gyros 0045; 0053;-007 ;phys_accs  19.750282; -109.548096; -952.661133;phys_gyros   0.015307; -0.031586; -0.030351; ; frame_size 3706;video_stream.frame_number 35370;  hdvideo_stream.frame_number: 0 ; 1431378144.896587 
+
+;navdata_time 1246.972503;nd_seq 247760; raw_accs 2072; 2048; 2544; raw_gyros 0045; 0053;-006 ;phys_accs  19.664383; -110.794472; -951.328125;phys_gyros  -0.010132; -0.035630; -0.005771; ; frame_size 3706;video_stream.frame_number 35370;  hdvideo_stream.frame_number: 0 ; 1431378144.900143 
+
+;navdata_time 1246.977661;nd_seq 247761; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-007 ;phys_accs  19.674465; -108.536247; -952.225586;phys_gyros   0.029683;  0.010420;  0.032710; ; frame_size 3706;video_stream.frame_number 35370;  hdvideo_stream.frame_number: 0 ; 1431378144.905766 
+
+;navdata_time 1246.982666;nd_seq 247762; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-006 ;phys_accs  19.750729; -106.424156; -952.217285;phys_gyros   0.002044;  0.028595; -0.007831; ; frame_size 3706;video_stream.frame_number 35370;  hdvideo_stream.frame_number: 0 ; 1431378144.910769 
+
+;navdata_time 1246.982666;nd_seq 247763; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-006 ;phys_accs  19.750729; -106.424156; -952.217285;phys_gyros   0.002044;  0.028595; -0.007831; ; frame_size 3706;video_stream.frame_number 35370;  hdvideo_stream.frame_number: 0 ; 1431378144.917410 
+
+;navdata_time 1246.987548;nd_seq 247764; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0052;-006 ;phys_accs  19.781082; -103.163071; -951.699707;phys_gyros   0.032269;  0.056049;  0.011928; ; frame_size 3706;video_stream.frame_number 35370;  hdvideo_stream.frame_number: 0 ; 1431378144.918135 
+
+;navdata_time 1246.992645;nd_seq 247765; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-007 ;phys_accs  19.834255; -101.203568; -952.216309;phys_gyros   0.053060;  0.024465; -0.041159; ; frame_size 3706;video_stream.frame_number 35370;  hdvideo_stream.frame_number: 0 ; 1431378144.920629 
+
+;navdata_time 1246.997650;nd_seq 247766; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-007 ;phys_accs  19.809076; -101.070160; -951.741211;phys_gyros   0.066322;  0.000984;  0.005101; ; frame_size 3552;video_stream.frame_number 35371;  hdvideo_stream.frame_number: 0 ; 1431378144.927307 
+
+;navdata_time 1247.002838;nd_seq 247767; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-007 ;phys_accs  19.772799; -101.552483; -952.005371;phys_gyros   0.067189; -0.024415;  0.011659; ; frame_size 3552;video_stream.frame_number 35371;  hdvideo_stream.frame_number: 0 ; 1431378144.930463 
+
+;navdata_time 1247.002838;nd_seq 247768; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-007 ;phys_accs  19.772799; -101.552483; -952.005371;phys_gyros   0.067189; -0.024415;  0.011659; ; frame_size 3552;video_stream.frame_number 35371;  hdvideo_stream.frame_number: 0 ; 1431378144.933262 
+
+;navdata_time 1247.007690;nd_seq 247769; raw_accs 2072; 2048; 2544; raw_gyros 0044; 0052;-006 ;phys_accs  19.721651; -104.326477; -952.062988;phys_gyros   0.014404; -0.032146;  0.018854; ; frame_size 3552;video_stream.frame_number 35371;  hdvideo_stream.frame_number: 0 ; 1431378144.935320 
+
+;navdata_time 1247.013061;nd_seq 247770; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-006 ;phys_accs  19.712027; -104.120079; -951.867676;phys_gyros   0.012999; -0.003828;  0.025124; ; frame_size 3552;video_stream.frame_number 35371;  hdvideo_stream.frame_number: 0 ; 1431378144.941743 
+
+;navdata_time 1247.017700;nd_seq 247771; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0051;-007 ;phys_accs  19.704439; -105.790199; -952.090332;phys_gyros  -0.024707;  0.043541; -0.020160; ; frame_size 3552;video_stream.frame_number 35371;  hdvideo_stream.frame_number: 0 ; 1431378144.945560 
+
+;navdata_time 1247.022827;nd_seq 247772; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.787697; -103.242897; -950.406738;phys_gyros   0.017170;  0.060432; -0.018834; ; frame_size 3552;video_stream.frame_number 35371;  hdvideo_stream.frame_number: 0 ; 1431378144.950690 
+
+;navdata_time 1247.022827;nd_seq 247773; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.787697; -103.242897; -950.406738;phys_gyros   0.017170;  0.060432; -0.018834; ; frame_size 3452;video_stream.frame_number 35372;  hdvideo_stream.frame_number: 0 ; 1431378144.954271 
+
+;navdata_time 1247.027770;nd_seq 247774; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-005 ;phys_accs  19.841452; -102.460472; -948.654785;phys_gyros   0.015488;  0.056622; -0.033033; ; frame_size 3452;video_stream.frame_number 35372;  hdvideo_stream.frame_number: 0 ; 1431378144.957199 
+
+;navdata_time 1247.032806;nd_seq 247775; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0052;-005 ;phys_accs  19.912466; -101.423592; -945.284668;phys_gyros   0.022821;  0.016200; -0.053509; ; frame_size 3452;video_stream.frame_number 35372;  hdvideo_stream.frame_number: 0 ; 1431378144.961648 
+
+;navdata_time 1247.037902;nd_seq 247776; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0053;-006 ;phys_accs  19.904314; -102.254456; -943.604492;phys_gyros   0.033672; -0.018666; -0.055227; ; frame_size 3452;video_stream.frame_number 35372;  hdvideo_stream.frame_number: 0 ; 1431378144.965820 
+
+;navdata_time 1247.043151;nd_seq 247777; raw_accs 2072; 2048; 2544; raw_gyros 0047; 0054;-008 ;phys_accs  19.809708; -106.225876; -944.661621;phys_gyros  -0.011983;  0.015633; -0.055834; ; frame_size 3452;video_stream.frame_number 35372;  hdvideo_stream.frame_number: 0 ; 1431378144.970850 
+
+;navdata_time 1247.043151;nd_seq 247778; raw_accs 2072; 2048; 2544; raw_gyros 0047; 0054;-008 ;phys_accs  19.809708; -106.225876; -944.661621;phys_gyros  -0.011983;  0.015633; -0.055834; ; frame_size 3452;video_stream.frame_number 35372;  hdvideo_stream.frame_number: 0 ; 1431378144.974772 
+
+;navdata_time 1247.048034;nd_seq 247779; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0053;-006 ;phys_accs  19.751873; -107.160660; -947.091309;phys_gyros   0.014911;  0.007547; -0.024745; ; frame_size 3452;video_stream.frame_number 35372;  hdvideo_stream.frame_number: 0 ; 1431378144.977834 
+
+;navdata_time 1247.052978;nd_seq 247780; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  19.668673; -109.624313; -950.303711;phys_gyros   0.004982;  0.055063;  0.034377; ; frame_size 3452;video_stream.frame_number 35372;  hdvideo_stream.frame_number: 0 ; 1431378144.980774 
+
+;navdata_time 1247.057952;nd_seq 247781; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.725975; -107.395676; -949.470703;phys_gyros   0.016260;  0.011879;  0.019350; ; frame_size 3452;video_stream.frame_number 35372;  hdvideo_stream.frame_number: 0 ; 1431378144.986529 
+
+;navdata_time 1247.062957;nd_seq 247782; raw_accs 2068; 2048; 2540; raw_gyros 0047; 0056;-006 ;phys_accs  18.197157; -108.583260; -946.771973;phys_gyros   0.052916; -0.022010;  0.018966; ; frame_size 3714;video_stream.frame_number 35373;  hdvideo_stream.frame_number: 0 ; 1431378144.990618 
+
+;navdata_time 1247.068023;nd_seq 247783; raw_accs 2068; 2048; 2540; raw_gyros 0046; 0053;-005 ;phys_accs  16.344240; -108.704941; -943.686523;phys_gyros   0.015620; -0.032904; -0.049272; ; frame_size 3714;video_stream.frame_number 35373;  hdvideo_stream.frame_number: 0 ; 1431378144.997642 
+
+;navdata_time 1247.073028;nd_seq 247784; raw_accs 2068; 2048; 2540; raw_gyros 0048; 0052;-007 ;phys_accs  12.833626; -110.120583; -942.144531;phys_gyros   0.071037; -0.051774; -0.055049; ; frame_size 3714;video_stream.frame_number 35373;  hdvideo_stream.frame_number: 0 ; 1431378145.002124 
+
+;navdata_time 1247.078521;nd_seq 247785; raw_accs 2068; 2048; 2540; raw_gyros 0046; 0055;-008 ;phys_accs  11.151381; -110.956520; -943.628418;phys_gyros   0.043919; -0.000522; -0.019991; ; frame_size 3714;video_stream.frame_number 35373;  hdvideo_stream.frame_number: 0 ; 1431378145.007676 
+
+;navdata_time 1247.083282;nd_seq 247786; raw_accs 2068; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  10.652645; -107.960602; -944.547852;phys_gyros   0.054285;  0.023478;  0.012260; ; frame_size 3714;video_stream.frame_number 35373;  hdvideo_stream.frame_number: 0 ; 1431378145.011421 
+
+;navdata_time 1247.088134;nd_seq 247787; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0055;-005 ;phys_accs  12.917850; -106.574677; -944.931152;phys_gyros   0.032417; -0.006859;  0.055117; ; frame_size 3714;video_stream.frame_number 35373;  hdvideo_stream.frame_number: 0 ; 1431378145.016856 
+
+;navdata_time 1247.093139;nd_seq 247788; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-007 ;phys_accs  16.225962; -101.979408; -944.565918;phys_gyros  -0.034144;  0.014649;  0.018897; ; frame_size 4000;video_stream.frame_number 35374;  hdvideo_stream.frame_number: 0 ; 1431378145.020863 
+
+;navdata_time 1247.098114;nd_seq 247789; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  19.111944; -101.546638; -943.646484;phys_gyros  -0.013793; -0.060717; -0.015764; ; frame_size 4000;video_stream.frame_number 35374;  hdvideo_stream.frame_number: 0 ; 1431378145.026849 
+
+;navdata_time 1247.103210;nd_seq 247790; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-006 ;phys_accs  20.962004; -100.936356; -945.728027;phys_gyros  -0.055465; -0.011669; -0.041300; ; frame_size 4000;video_stream.frame_number 35374;  hdvideo_stream.frame_number: 0 ; 1431378145.031417 
+
+;navdata_time 1247.103210;nd_seq 247791; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-006 ;phys_accs  20.962004; -100.936356; -945.728027;phys_gyros  -0.055465; -0.011669; -0.041300; ; frame_size 4000;video_stream.frame_number 35374;  hdvideo_stream.frame_number: 0 ; 1431378145.034369 
+
+;navdata_time 1247.108245;nd_seq 247792; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-005 ;phys_accs  20.633133; -101.463509; -947.575684;phys_gyros   0.028764; -0.029382; -0.058652; ; frame_size 4000;video_stream.frame_number 35374;  hdvideo_stream.frame_number: 0 ; 1431378145.035791 
+
+;navdata_time 1247.113372;nd_seq 247793; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0052;-006 ;phys_accs  20.244850; -103.057045; -951.181641;phys_gyros  -0.003165; -0.012032; -0.039173; ; frame_size 4000;video_stream.frame_number 35374;  hdvideo_stream.frame_number: 0 ; 1431378145.043587 
+
+;navdata_time 1247.118286;nd_seq 247794; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0054;-005 ;phys_accs  19.159431; -102.016617; -952.759277;phys_gyros   0.056498;  0.004015; -0.057803; ; frame_size 4000;video_stream.frame_number 35374;  hdvideo_stream.frame_number: 0 ; 1431378145.046601 
+
+;navdata_time 1247.123474;nd_seq 247795; raw_accs 2072; 2044; 2544; raw_gyros 0049; 0052;-007 ;phys_accs  19.650621; -102.602943; -953.002441;phys_gyros   0.053750;  0.006662; -0.051086; ; frame_size 4000;video_stream.frame_number 35374;  hdvideo_stream.frame_number: 0 ; 1431378145.051242 
+
+;navdata_time 1247.128326;nd_seq 247796; raw_accs 2068; 2044; 2544; raw_gyros 0045; 0053;-006 ;phys_accs  18.075590; -101.694313; -952.452637;phys_gyros   0.070688;  0.053629; -0.044496; ; frame_size 1916;video_stream.frame_number 35375;  hdvideo_stream.frame_number: 0 ; 1431378145.056085 
+
+;navdata_time 1247.133331;nd_seq 247797; raw_accs 2068; 2044; 2544; raw_gyros 0048; 0054;-007 ;phys_accs  16.760435; -101.942169; -951.108887;phys_gyros   0.126547;  0.044332; -0.014974; ; frame_size 1916;video_stream.frame_number 35375;  hdvideo_stream.frame_number: 0 ; 1431378145.061464 
+
+;navdata_time 1247.138275;nd_seq 247798; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0055;-006 ;phys_accs  14.492133; -102.200317; -950.253906;phys_gyros   0.029288;  0.022693;  0.009609; ; frame_size 1916;video_stream.frame_number 35375;  hdvideo_stream.frame_number: 0 ; 1431378145.066530 
+
+;navdata_time 1247.143524;nd_seq 247799; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-006 ;phys_accs  14.546735; -101.847595; -949.742676;phys_gyros   0.077846; -0.048321; -0.001184; ; frame_size 1916;video_stream.frame_number 35375;  hdvideo_stream.frame_number: 0 ; 1431378145.071254 
+
+;navdata_time 1247.148498;nd_seq 247800; raw_accs 2072; 2048; 2540; raw_gyros 0045; 0055;-007 ;phys_accs  17.541822; -103.638893; -947.476074;phys_gyros  -0.044964; -0.081352; -0.000232; ; frame_size 1916;video_stream.frame_number 35375;  hdvideo_stream.frame_number: 0 ; 1431378145.079079 
+
+;navdata_time 1247.153442;nd_seq 247801; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  19.779325; -105.252960; -947.171875;phys_gyros   0.020148; -0.107628; -0.032345; ; frame_size 1916;video_stream.frame_number 35375;  hdvideo_stream.frame_number: 0 ; 1431378145.081133 
+
+;navdata_time 1247.158355;nd_seq 247802; raw_accs 2072; 2048; 2540; raw_gyros 0048; 0054;-006 ;phys_accs  21.817387; -108.813103; -944.651855;phys_gyros   0.032336; -0.057589; -0.005451; ; frame_size 1916;video_stream.frame_number 35375;  hdvideo_stream.frame_number: 0 ; 1431378145.087353 
+
+;navdata_time 1247.163665;nd_seq 247803; raw_accs 2072; 2048; 2544; raw_gyros 0046; 0055;-007 ;phys_accs  20.430273; -110.604111; -945.864746;phys_gyros   0.040448; -0.049007; -0.021360; ; frame_size 3457;video_stream.frame_number 35376;  hdvideo_stream.frame_number: 0 ; 1431378145.092076 
+
+;navdata_time 1247.168548;nd_seq 247804; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  19.317045; -111.070587; -946.117676;phys_gyros   0.107537; -0.030439; -0.000388; ; frame_size 3457;video_stream.frame_number 35376;  hdvideo_stream.frame_number: 0 ; 1431378145.096173 
+
+;navdata_time 1247.173675;nd_seq 247805; raw_accs 2072; 2048; 2544; raw_gyros 0046; 0053;-006 ;phys_accs  19.170422; -110.571442; -948.169922;phys_gyros   0.001899; -0.042801; -0.011809; ; frame_size 3457;video_stream.frame_number 35376;  hdvideo_stream.frame_number: 0 ; 1431378145.101425 
+
+;navdata_time 1247.178680;nd_seq 247806; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0055;-005 ;phys_accs  19.326374; -109.198196; -948.754395;phys_gyros   0.043471; -0.062946; -0.038458; ; frame_size 3457;video_stream.frame_number 35376;  hdvideo_stream.frame_number: 0 ; 1431378145.106543 
+
+;navdata_time 1247.183624;nd_seq 247807; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-005 ;phys_accs  20.493504; -108.315948; -947.561035;phys_gyros  -0.041750; -0.035533; -0.050922; ; frame_size 3457;video_stream.frame_number 35376;  hdvideo_stream.frame_number: 0 ; 1431378145.111285 
+
+;navdata_time 1247.188537;nd_seq 247808; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  20.005932; -106.221664; -945.993164;phys_gyros  -0.004566; -0.041480; -0.060550; ; frame_size 3457;video_stream.frame_number 35376;  hdvideo_stream.frame_number: 0 ; 1431378145.117622 
+
+;navdata_time 1247.193664;nd_seq 247809; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0054;-008 ;phys_accs  19.964550; -103.475426; -943.276367;phys_gyros   0.030936; -0.016840; -0.019552; ; frame_size 3449;video_stream.frame_number 35377;  hdvideo_stream.frame_number: 0 ; 1431378145.122186 
+
+;navdata_time 1247.198669;nd_seq 247810; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  19.829916; -101.497025; -944.032227;phys_gyros   0.057209; -0.012151;  0.047156; ; frame_size 3449;video_stream.frame_number 35377;  hdvideo_stream.frame_number: 0 ; 1431378145.126417 
+
+;navdata_time 1247.206542;nd_seq 247811; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0057;-006 ;phys_accs  19.720034; -100.661423; -943.090332;phys_gyros   0.104047; -0.053996;  0.060714; ; frame_size 3449;video_stream.frame_number 35377;  hdvideo_stream.frame_number: 0 ; 1431378145.136280 
+
+;navdata_time 1247.208953;nd_seq 247812; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-007 ;phys_accs  20.010059; -101.509201; -945.444824;phys_gyros   0.045295; -0.031504;  0.064153; ; frame_size 3449;video_stream.frame_number 35377;  hdvideo_stream.frame_number: 0 ; 1431378145.137229 
+
+;navdata_time 1247.213806;nd_seq 247813; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-005 ;phys_accs  19.848337; -102.645195; -943.968262;phys_gyros   0.018469; -0.103469; -0.018677; ; frame_size 3449;video_stream.frame_number 35377;  hdvideo_stream.frame_number: 0 ; 1431378145.141434 
+
+;navdata_time 1247.218750;nd_seq 247814; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.856802; -102.249886; -944.818359;phys_gyros  -0.036920; -0.034083; -0.036223; ; frame_size 3449;video_stream.frame_number 35377;  hdvideo_stream.frame_number: 0 ; 1431378145.146654 
+
+;navdata_time 1247.223999;nd_seq 247815; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.845585; -102.367668; -943.977051;phys_gyros  -0.027487; -0.035363; -0.052406; ; frame_size 3470;video_stream.frame_number 35378;  hdvideo_stream.frame_number: 0 ; 1431378145.152209 
+
+;navdata_time 1247.228851;nd_seq 247816; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  19.810455; -101.440659; -944.022461;phys_gyros   0.014278;  0.020873; -0.010287; ; frame_size 3470;video_stream.frame_number 35378;  hdvideo_stream.frame_number: 0 ; 1431378145.156529 
+
+;navdata_time 1247.233947;nd_seq 247817; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-009 ;phys_accs  19.934292; -101.891411; -944.568848;phys_gyros   0.046905;  0.039721;  0.043395; ; frame_size 3470;video_stream.frame_number 35378;  hdvideo_stream.frame_number: 0 ; 1431378145.161483 
+
+;navdata_time 1247.239074;nd_seq 247818; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-006 ;phys_accs  19.901976; -102.068436; -944.147461;phys_gyros   0.057656; -0.001811;  0.042790; ; frame_size 3470;video_stream.frame_number 35378;  hdvideo_stream.frame_number: 0 ; 1431378145.167089 
+
+;navdata_time 1247.244201;nd_seq 247819; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-005 ;phys_accs  19.910862; -102.050720; -944.478516;phys_gyros   0.039128;  0.024699;  0.057570; ; frame_size 3470;video_stream.frame_number 35378;  hdvideo_stream.frame_number: 0 ; 1431378145.172038 
+
+;navdata_time 1247.248992;nd_seq 247820; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-005 ;phys_accs  19.873692; -102.224266; -945.732422;phys_gyros   0.008115; -0.001737; -0.037788; ; frame_size 3470;video_stream.frame_number 35378;  hdvideo_stream.frame_number: 0 ; 1431378145.176832 
+
+;navdata_time 1247.253997;nd_seq 247821; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-006 ;phys_accs  19.800766; -101.947823; -947.514160;phys_gyros   0.002442;  0.036097; -0.057367; ; frame_size 3470;video_stream.frame_number 35378;  hdvideo_stream.frame_number: 0 ; 1431378145.182201 
+
+;navdata_time 1247.258972;nd_seq 247822; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-005 ;phys_accs  19.775980; -102.081932; -951.101562;phys_gyros   0.001535;  0.003115; -0.115961; ; frame_size 3653;video_stream.frame_number 35379;  hdvideo_stream.frame_number: 0 ; 1431378145.186816 
+
+;navdata_time 1247.264038;nd_seq 247823; raw_accs 2072; 2044; 2544; raw_gyros 0049; 0054;-005 ;phys_accs  19.729919; -102.116982; -952.537598;phys_gyros   0.040034; -0.021786; -0.092419; ; frame_size 3653;video_stream.frame_number 35379;  hdvideo_stream.frame_number: 0 ; 1431378145.191716 
+
+;navdata_time 1247.268951;nd_seq 247824; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.745617; -102.071175; -951.728027;phys_gyros   0.073065; -0.059550; -0.059420; ; frame_size 3653;video_stream.frame_number 35379;  hdvideo_stream.frame_number: 0 ; 1431378145.197883 
+
+;navdata_time 1247.274200;nd_seq 247825; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-005 ;phys_accs  19.786501; -102.118988; -949.160645;phys_gyros   0.098338; -0.038864; -0.071529; ; frame_size 3653;video_stream.frame_number 35379;  hdvideo_stream.frame_number: 0 ; 1431378145.202074 
+
+;navdata_time 1247.279083;nd_seq 247826; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.850878; -101.961914; -944.471191;phys_gyros   0.089777; -0.021711; -0.015518; ; frame_size 3653;video_stream.frame_number 35379;  hdvideo_stream.frame_number: 0 ; 1431378145.206751 
+
+;navdata_time 1247.284301;nd_seq 247827; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  19.908600; -101.972092; -943.545410;phys_gyros   0.066224;  0.016468; -0.045436; ; frame_size 3653;video_stream.frame_number 35379;  hdvideo_stream.frame_number: 0 ; 1431378145.213483 
+
+;navdata_time 1247.289184;nd_seq 247828; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.946087; -101.948341; -942.730957;phys_gyros   0.041072;  0.000692;  0.017740; ; frame_size 4022;video_stream.frame_number 35380;  hdvideo_stream.frame_number: 0 ; 1431378145.219099 
+
+;navdata_time 1247.294250;nd_seq 247829; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-004 ;phys_accs  19.956182; -101.930283; -944.259766;phys_gyros   0.026594; -0.033733; -0.030463; ; frame_size 4022;video_stream.frame_number 35380;  hdvideo_stream.frame_number: 0 ; 1431378145.222094 
+
+;navdata_time 1247.299133;nd_seq 247830; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-006 ;phys_accs  19.953243; -101.964287; -945.150391;phys_gyros   0.012808; -0.035344; -0.048902; ; frame_size 4022;video_stream.frame_number 35380;  hdvideo_stream.frame_number: 0 ; 1431378145.226820 
+
+;navdata_time 1247.304565;nd_seq 247831; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  19.947504; -101.926109; -944.297363;phys_gyros  -0.010013; -0.055227; -0.071745; ; frame_size 4022;video_stream.frame_number 35380;  hdvideo_stream.frame_number: 0 ; 1431378145.233512 
+
+;navdata_time 1247.309356;nd_seq 247832; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0056;-006 ;phys_accs  19.931679; -101.963028; -944.657227;phys_gyros  -0.027261; -0.024753; -0.075131; ; frame_size 4022;video_stream.frame_number 35380;  hdvideo_stream.frame_number: 0 ; 1431378145.237252 
+
+;navdata_time 1247.314331;nd_seq 247833; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-008 ;phys_accs  19.926023; -101.987617; -943.661621;phys_gyros  -0.034530; -0.056351;  0.025017; ; frame_size 4022;video_stream.frame_number 35380;  hdvideo_stream.frame_number: 0 ; 1431378145.242025 
+
+;navdata_time 1247.319244;nd_seq 247834; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-007 ;phys_accs  19.912165; -102.029381; -944.307129;phys_gyros  -0.005274; -0.076131;  0.022817; ; frame_size 3384;video_stream.frame_number 35381;  hdvideo_stream.frame_number: 0 ; 1431378145.248992 
+
+;navdata_time 1247.324523;nd_seq 247835; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0053;-006 ;phys_accs  19.893587; -102.104538; -945.943359;phys_gyros   0.039443; -0.062631;  0.076715; ; frame_size 3384;video_stream.frame_number 35381;  hdvideo_stream.frame_number: 0 ; 1431378145.252123 
+
+;navdata_time 1247.329406;nd_seq 247836; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-006 ;phys_accs  19.878002; -102.144104; -947.578125;phys_gyros   0.071661; -0.038917;  0.003215; ; frame_size 3384;video_stream.frame_number 35381;  hdvideo_stream.frame_number: 0 ; 1431378145.257265 
+
+;navdata_time 1247.334503;nd_seq 247837; raw_accs 2072; 2044; 2540; raw_gyros 0044; 0055;-008 ;phys_accs  19.864763; -102.183685; -949.696289;phys_gyros   0.051830;  0.019562; -0.000611; ; frame_size 3384;video_stream.frame_number 35381;  hdvideo_stream.frame_number: 0 ; 1431378145.263333 
+
+;navdata_time 1247.339538;nd_seq 247838; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-006 ;phys_accs  19.860920; -102.178223; -950.609375;phys_gyros   0.016624;  0.028715; -0.012926; ; frame_size 3384;video_stream.frame_number 35381;  hdvideo_stream.frame_number: 0 ; 1431378145.267360 
+
+;navdata_time 1247.344512;nd_seq 247839; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-008 ;phys_accs  19.867895; -102.123817; -949.759277;phys_gyros  -0.052344; -0.007973;  0.019742; ; frame_size 3384;video_stream.frame_number 35381;  hdvideo_stream.frame_number: 0 ; 1431378145.272017 
+
+;navdata_time 1247.349426;nd_seq 247840; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-008 ;phys_accs  19.838621; -102.094238; -950.922852;phys_gyros  -0.033621; -0.014148;  0.060788; ; frame_size 3384;video_stream.frame_number 35381;  hdvideo_stream.frame_number: 0 ; 1431378145.277139 
+
+;navdata_time 1247.354522;nd_seq 247841; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0053;-007 ;phys_accs  19.812590; -102.049629; -950.638672;phys_gyros  -0.031920; -0.034990;  0.068415; ; frame_size 3384;video_stream.frame_number 35381;  hdvideo_stream.frame_number: 0 ; 1431378145.284688 
+
+;navdata_time 1247.359527;nd_seq 247842; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0055;-007 ;phys_accs  19.763988; -102.062210; -952.563965;phys_gyros   0.014578; -0.015334;  0.073297; ; frame_size 3384;video_stream.frame_number 35381;  hdvideo_stream.frame_number: 0 ; 1431378145.287412 
+
+;navdata_time 1247.364715;nd_seq 247843; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-006 ;phys_accs  19.743334; -102.077774; -952.846191;phys_gyros   0.018023;  0.010207;  0.022857; ; frame_size 17608;video_stream.frame_number 35382;  hdvideo_stream.frame_number: 0 ; 1431378145.292437 
+
+;navdata_time 1247.369873;nd_seq 247844; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0057;-006 ;phys_accs  19.752247; -102.088051; -951.821289;phys_gyros   0.007336; -0.066422;  0.007086; ; frame_size 17608;video_stream.frame_number 35382;  hdvideo_stream.frame_number: 0 ; 1431378145.297839 
+
+;navdata_time 1247.374664;nd_seq 247845; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-006 ;phys_accs  19.757698; -102.117485; -952.291504;phys_gyros   0.027749; -0.026213; -0.044419; ; frame_size 17608;video_stream.frame_number 35382;  hdvideo_stream.frame_number: 0 ; 1431378145.303300 
+
+;navdata_time 1247.379730;nd_seq 247846; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-007 ;phys_accs  19.789467; -102.110870; -951.006348;phys_gyros  -0.003003; -0.104212; -0.021459; ; frame_size 17608;video_stream.frame_number 35382;  hdvideo_stream.frame_number: 0 ; 1431378145.309085 
+
+;navdata_time 1247.384643;nd_seq 247847; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-004 ;phys_accs  19.799154; -102.125755; -952.362305;phys_gyros   0.026564; -0.039120; -0.052990; ; frame_size 4262;video_stream.frame_number 35383;  hdvideo_stream.frame_number: 0 ; 1431378145.312848 
+
+;navdata_time 1247.389678;nd_seq 247848; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-008 ;phys_accs  19.830587; -102.111038; -952.023438;phys_gyros  -0.022367; -0.030704; -0.008898; ; frame_size 4262;video_stream.frame_number 35383;  hdvideo_stream.frame_number: 0 ; 1431378145.320462 
+
+;navdata_time 1247.394744;nd_seq 247849; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0055;-005 ;phys_accs  19.858717; -102.095795; -951.952148;phys_gyros  -0.012124; -0.060863; -0.046302; ; frame_size 4262;video_stream.frame_number 35383;  hdvideo_stream.frame_number: 0 ; 1431378145.322183 
+
+;navdata_time 1247.399749;nd_seq 247850; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0052;-007 ;phys_accs  19.875923; -102.088318; -952.158691;phys_gyros  -0.013385;  0.014448; -0.007260; ; frame_size 4262;video_stream.frame_number 35383;  hdvideo_stream.frame_number: 0 ; 1431378145.327639 
+
+;navdata_time 1247.405120;nd_seq 247851; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-008 ;phys_accs  19.886587; -102.078316; -951.663086;phys_gyros  -0.011771; -0.067777; -0.004189; ; frame_size 4262;video_stream.frame_number 35383;  hdvideo_stream.frame_number: 0 ; 1431378145.332906 
+
+;navdata_time 1247.409942;nd_seq 247852; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-007 ;phys_accs  19.872629; -102.088226; -952.077637;phys_gyros   0.043978;  0.053499;  0.026734; ; frame_size 4262;video_stream.frame_number 35383;  hdvideo_stream.frame_number: 0 ; 1431378145.339244 
+
+;navdata_time 1247.414825;nd_seq 247853; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0051;-008 ;phys_accs  19.852024; -102.096542; -951.963379;phys_gyros   0.017761;  0.034950;  0.083867; ; frame_size 4262;video_stream.frame_number 35383;  hdvideo_stream.frame_number: 0 ; 1431378145.342351 
+
+;navdata_time 1247.419860;nd_seq 247854; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0054;-007 ;phys_accs  19.822124; -102.103119; -951.941895;phys_gyros   0.048282;  0.064825;  0.042165; ; frame_size 4262;video_stream.frame_number 35383;  hdvideo_stream.frame_number: 0 ; 1431378145.348982 
+
+;navdata_time 1247.424926;nd_seq 247855; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0055;-007 ;phys_accs  19.784590; -102.104713; -952.056152;phys_gyros  -0.002048;  0.066815;  0.092418; ; frame_size 3788;video_stream.frame_number 35384;  hdvideo_stream.frame_number: 0 ; 1431378145.352714 
+
+;navdata_time 1247.429840;nd_seq 247856; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0051;-006 ;phys_accs  19.747118; -102.093330; -951.865723;phys_gyros   0.002561; -0.003339; -0.003148; ; frame_size 3788;video_stream.frame_number 35384;  hdvideo_stream.frame_number: 0 ; 1431378145.357631 
+
+;navdata_time 1247.435058;nd_seq 247857; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-006 ;phys_accs  19.709906; -102.082504; -952.002441;phys_gyros   0.032473;  0.033504;  0.012683; ; frame_size 3788;video_stream.frame_number 35384;  hdvideo_stream.frame_number: 0 ; 1431378145.362849 
+
+;navdata_time 1247.439941;nd_seq 247858; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0052;-007 ;phys_accs  19.687998; -102.072777; -951.961914;phys_gyros   0.075990;  0.040172; -0.023373; ; frame_size 3788;video_stream.frame_number 35384;  hdvideo_stream.frame_number: 0 ; 1431378145.367809 
+
+;navdata_time 1247.445220;nd_seq 247859; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0055;-005 ;phys_accs  19.686588; -102.068268; -951.947754;phys_gyros   0.112212;  0.044482; -0.045633; ; frame_size 3788;video_stream.frame_number 35384;  hdvideo_stream.frame_number: 0 ; 1431378145.372804 
+
+;navdata_time 1247.450134;nd_seq 247860; raw_accs 2072; 2048; 2544; raw_gyros 0046; 0053;-006 ;phys_accs  19.676006; -103.605087; -952.010742;phys_gyros   0.085863;  0.070756; -0.009271; ; frame_size 2220;video_stream.frame_number 35385;  hdvideo_stream.frame_number: 0 ; 1431378145.378357 
+
+;navdata_time 1247.455047;nd_seq 247861; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0053;-008 ;phys_accs  19.687468; -105.464668; -950.457031;phys_gyros   0.040372; -0.010120; -0.039570; ; frame_size 2220;video_stream.frame_number 35385;  hdvideo_stream.frame_number: 0 ; 1431378145.382728 
+
+;navdata_time 1247.460052;nd_seq 247862; raw_accs 2072; 2048; 2540; raw_gyros 0048; 0053;-008 ;phys_accs  19.673721; -108.925743; -948.695312;phys_gyros   0.028689;  0.007761;  0.028754; ; frame_size 2220;video_stream.frame_number 35385;  hdvideo_stream.frame_number: 0 ; 1431378145.387830 
+
+;navdata_time 1247.465087;nd_seq 247863; raw_accs 2072; 2048; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  19.708447; -110.527107; -945.296875;phys_gyros   0.040373;  0.003769;  0.037632; ; frame_size 2220;video_stream.frame_number 35385;  hdvideo_stream.frame_number: 0 ; 1431378145.393588 
+
+;navdata_time 1247.470214;nd_seq 247864; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0055;-006 ;phys_accs  19.742083; -111.062767; -943.688965;phys_gyros   0.075413; -0.013670;  0.041760; ; frame_size 2220;video_stream.frame_number 35385;  hdvideo_stream.frame_number: 0 ; 1431378145.398178 
+
+;navdata_time 1247.475250;nd_seq 247865; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0055;-006 ;phys_accs  19.784813; -110.384819; -943.163086;phys_gyros   0.083545;  0.004275;  0.019909; ; frame_size 2220;video_stream.frame_number 35385;  hdvideo_stream.frame_number: 0 ; 1431378145.402951 
+
+;navdata_time 1247.480133;nd_seq 247866; raw_accs 2072; 2048; 2540; raw_gyros 0047; 0056;-005 ;phys_accs  19.822737; -109.097748; -943.796387;phys_gyros   0.062859; -0.114007; -0.058214; ; frame_size 2220;video_stream.frame_number 35385;  hdvideo_stream.frame_number: 0 ; 1431378145.410319 
+
+;navdata_time 1247.485382;nd_seq 247867; raw_accs 2072; 2048; 2544; raw_gyros 0048; 0055;-007 ;phys_accs  19.796673; -109.785545; -946.582031;phys_gyros   0.072545; -0.101203; -0.052637; ; frame_size 2220;video_stream.frame_number 35385;  hdvideo_stream.frame_number: 0 ; 1431378145.413383 
+
+;navdata_time 1247.490295;nd_seq 247868; raw_accs 2072; 2048; 2544; raw_gyros 0046; 0055;-006 ;phys_accs  19.800699; -109.599922; -947.791016;phys_gyros   0.055472; -0.142890; -0.065640; ; frame_size 2539;video_stream.frame_number 35386;  hdvideo_stream.frame_number: 0 ; 1431378145.419707 
+
+;navdata_time 1247.495239;nd_seq 247869; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-006 ;phys_accs  19.791517; -108.952690; -951.384277;phys_gyros   0.090503; -0.085676; -0.010634; ; frame_size 2539;video_stream.frame_number 35386;  hdvideo_stream.frame_number: 0 ; 1431378145.423585 
+
+;navdata_time 1247.500549;nd_seq 247870; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0052;-007 ;phys_accs  19.846315; -106.700760; -952.170410;phys_gyros   0.067619; -0.021101;  0.002329; ; frame_size 2539;video_stream.frame_number 35386;  hdvideo_stream.frame_number: 0 ; 1431378145.428483 
+
+;navdata_time 1247.505340;nd_seq 247871; raw_accs 2072; 2048; 2544; raw_gyros 0047; 0052;-005 ;phys_accs  19.896885; -104.514206; -953.056152;phys_gyros   0.082250;  0.023248; -0.017042; ; frame_size 2539;video_stream.frame_number 35386;  hdvideo_stream.frame_number: 0 ; 1431378145.433114 
+
+;navdata_time 1247.510345;nd_seq 247872; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  19.943148; -103.306694; -951.129883;phys_gyros   0.078936;  0.078165; -0.019161; ; frame_size 2539;video_stream.frame_number 35386;  hdvideo_stream.frame_number: 0 ; 1431378145.438500 
+
+;navdata_time 1247.515319;nd_seq 247873; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-004 ;phys_accs  19.936569; -104.154060; -947.902344;phys_gyros   0.063377;  0.049760; -0.089854; ; frame_size 1954;video_stream.frame_number 35387;  hdvideo_stream.frame_number: 0 ; 1431378145.443326 
+
+;navdata_time 1247.520446;nd_seq 247874; raw_accs 2076; 2044; 2540; raw_gyros 0045; 0055;-004 ;phys_accs  21.465403; -103.260551; -945.305664;phys_gyros   0.050299;  0.002052; -0.087412; ; frame_size 1954;video_stream.frame_number 35387;  hdvideo_stream.frame_number: 0 ; 1431378145.448207 
+
+;navdata_time 1247.525543;nd_seq 247875; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-007 ;phys_accs  21.755400; -103.378250; -943.238281;phys_gyros   0.000984; -0.048499; -0.117743; ; frame_size 1954;video_stream.frame_number 35387;  hdvideo_stream.frame_number: 0 ; 1431378145.454635 
+
+;navdata_time 1247.530426;nd_seq 247876; raw_accs 2072; 2044; 2540; raw_gyros 0049; 0054;-008 ;phys_accs  23.324448; -101.476151; -943.607910;phys_gyros   0.026494; -0.081550; -0.067747; ; frame_size 1954;video_stream.frame_number 35387;  hdvideo_stream.frame_number: 0 ; 1431378145.459032 
+
+;navdata_time 1247.535614;nd_seq 247877; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-008 ;phys_accs  21.432751; -101.093155; -943.934082;phys_gyros   0.049891; -0.045647;  0.027351; ; frame_size 1954;video_stream.frame_number 35387;  hdvideo_stream.frame_number: 0 ; 1431378145.464535 
+
+;navdata_time 1247.540527;nd_seq 247878; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-007 ;phys_accs  20.296799; -102.126411; -944.909668;phys_gyros   0.091651; -0.033805;  0.067284; ; frame_size 1954;video_stream.frame_number 35387;  hdvideo_stream.frame_number: 0 ; 1431378145.468244 
+
+;navdata_time 1247.545562;nd_seq 247879; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.098255; -101.735237; -944.477051;phys_gyros   0.082539; -0.022735;  0.131063; ; frame_size 1954;video_stream.frame_number 35387;  hdvideo_stream.frame_number: 0 ; 1431378145.473101 
+
+;navdata_time 1247.550537;nd_seq 247880; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-006 ;phys_accs  18.500244; -103.003044; -944.439941;phys_gyros   0.047343; -0.023946;  0.051667; ; frame_size 3648;video_stream.frame_number 35388;  hdvideo_stream.frame_number: 0 ; 1431378145.478351 
+
+;navdata_time 1247.555603;nd_seq 247881; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0052;-007 ;phys_accs  20.527597; -101.683388; -945.428223;phys_gyros   0.035420; -0.013532;  0.032239; ; frame_size 3648;video_stream.frame_number 35388;  hdvideo_stream.frame_number: 0 ; 1431378145.483738 
+
+;navdata_time 1247.560546;nd_seq 247882; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-007 ;phys_accs  19.710918; -101.982712; -946.058105;phys_gyros   0.020377;  0.027474; -0.008499; ; frame_size 3648;video_stream.frame_number 35388;  hdvideo_stream.frame_number: 0 ; 1431378145.489154 
+
+;navdata_time 1247.565917;nd_seq 247883; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-007 ;phys_accs  20.754356; -102.080849; -949.271484;phys_gyros   0.041594;  0.051748;  0.002031; ; frame_size 3648;video_stream.frame_number 35388;  hdvideo_stream.frame_number: 0 ; 1431378145.494139 
+
+;navdata_time 1247.570800;nd_seq 247884; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-007 ;phys_accs  19.535143; -101.864449; -949.255371;phys_gyros   0.012960;  0.034964;  0.040130; ; frame_size 3648;video_stream.frame_number 35388;  hdvideo_stream.frame_number: 0 ; 1431378145.498917 
+
+;navdata_time 1247.575683;nd_seq 247885; raw_accs 2068; 2044; 2544; raw_gyros 0047; 0053;-006 ;phys_accs  18.072580; -102.354988; -951.598145;phys_gyros   0.026603;  0.016875;  0.015772; ; frame_size 3648;video_stream.frame_number 35388;  hdvideo_stream.frame_number: 0 ; 1431378145.503328 
+
+;navdata_time 1247.580718;nd_seq 247886; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0053;-006 ;phys_accs  18.053257; -101.953331; -951.829102;phys_gyros   0.048771; -0.007704;  0.021801; ; frame_size 3648;video_stream.frame_number 35388;  hdvideo_stream.frame_number: 0 ; 1431378145.508803 
+
+;navdata_time 1247.585723;nd_seq 247887; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0052;-007 ;phys_accs  16.104856; -102.037010; -951.780762;phys_gyros   0.081665;  0.024040; -0.024445; ; frame_size 3605;video_stream.frame_number 35389;  hdvideo_stream.frame_number: 0 ; 1431378145.514062 
+
+;navdata_time 1247.590759;nd_seq 247888; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-008 ;phys_accs  18.338451; -102.123665; -953.087891;phys_gyros   0.123044;  0.046901;  0.002905; ; frame_size 3605;video_stream.frame_number 35389;  hdvideo_stream.frame_number: 0 ; 1431378145.519444 
+
+;navdata_time 1247.595977;nd_seq 247889; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-008 ;phys_accs  19.102282; -102.004189; -950.992676;phys_gyros   0.070793;  0.053624;  0.033711; ; frame_size 3605;video_stream.frame_number 35389;  hdvideo_stream.frame_number: 0 ; 1431378145.523592 
+
+;navdata_time 1247.600891;nd_seq 247890; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-007 ;phys_accs  20.344713; -102.226601; -952.688477;phys_gyros   0.060842;  0.017878;  0.072759; ; frame_size 3605;video_stream.frame_number 35389;  hdvideo_stream.frame_number: 0 ; 1431378145.528826 
+
+;navdata_time 1247.606048;nd_seq 247891; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-006 ;phys_accs  21.130018; -102.062218; -951.264160;phys_gyros   0.011488; -0.027882;  0.077330; ; frame_size 3605;video_stream.frame_number 35389;  hdvideo_stream.frame_number: 0 ; 1431378145.533998 
+
+;navdata_time 1247.610900;nd_seq 247892; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0052;-006 ;phys_accs  19.042124; -102.052155; -952.186035;phys_gyros   0.016633; -0.028160;  0.022202; ; frame_size 3605;video_stream.frame_number 35389;  hdvideo_stream.frame_number: 0 ; 1431378145.538539 
+
+;navdata_time 1247.615966;nd_seq 247893; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0055;-006 ;phys_accs  20.100899; -102.050476; -950.714844;phys_gyros   0.046359; -0.035128; -0.027422; ; frame_size 3605;video_stream.frame_number 35389;  hdvideo_stream.frame_number: 0 ; 1431378145.543941 
+
+;navdata_time 1247.620941;nd_seq 247894; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-008 ;phys_accs  18.987352; -101.954727; -948.343262;phys_gyros   0.046297;  0.006301; -0.035097; ; frame_size 3596;video_stream.frame_number 35390;  hdvideo_stream.frame_number: 0 ; 1431378145.548792 
+
+;navdata_time 1247.625885;nd_seq 247895; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-004 ;phys_accs  20.269033; -102.036346; -945.540039;phys_gyros   0.085684; -0.052079; -0.045301; ; frame_size 3596;video_stream.frame_number 35390;  hdvideo_stream.frame_number: 0 ; 1431378145.556099 
+
+;navdata_time 1247.631103;nd_seq 247896; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-006 ;phys_accs  20.224884; -101.986862; -943.418457;phys_gyros   0.056527; -0.037595; -0.001720; ; frame_size 3596;video_stream.frame_number 35390;  hdvideo_stream.frame_number: 0 ; 1431378145.559704 
+
+;navdata_time 1247.635986;nd_seq 247897; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  19.819794; -102.010330; -943.150879;phys_gyros   0.059532; -0.064294; -0.037931; ; frame_size 3596;video_stream.frame_number 35390;  hdvideo_stream.frame_number: 0 ; 1431378145.563896 
+
+;navdata_time 1247.641052;nd_seq 247898; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-005 ;phys_accs  20.159966; -102.055374; -945.352539;phys_gyros   0.051890;  0.000359; -0.040729; ; frame_size 3596;video_stream.frame_number 35390;  hdvideo_stream.frame_number: 0 ; 1431378145.568728 
+
+;navdata_time 1247.646270;nd_seq 247899; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-006 ;phys_accs  19.662188; -102.054909; -948.245117;phys_gyros   0.039875;  0.042732; -0.042001; ; frame_size 3837;video_stream.frame_number 35391;  hdvideo_stream.frame_number: 0 ; 1431378145.574227 
+
+;navdata_time 1247.651367;nd_seq 247900; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0052;-007 ;phys_accs  19.987000; -102.095032; -949.768066;phys_gyros   0.040658;  0.051715; -0.050399; ; frame_size 3837;video_stream.frame_number 35391;  hdvideo_stream.frame_number: 0 ; 1431378145.579758 
+
+;navdata_time 1247.656097;nd_seq 247901; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-007 ;phys_accs  19.970928; -102.065964; -949.558594;phys_gyros   0.015026;  0.040772;  0.016673; ; frame_size 3837;video_stream.frame_number 35391;  hdvideo_stream.frame_number: 0 ; 1431378145.583628 
+
+;navdata_time 1247.661193;nd_seq 247902; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0054;-007 ;phys_accs  19.825964; -102.019417; -945.981445;phys_gyros   0.020201; -0.000298;  0.000345; ; frame_size 3837;video_stream.frame_number 35391;  hdvideo_stream.frame_number: 0 ; 1431378145.592040 
+
+;navdata_time 1247.666290;nd_seq 247903; raw_accs 2072; 2044; 2540; raw_gyros 0044; 0053;-006 ;phys_accs  19.964182; -102.004700; -944.104004;phys_gyros   0.016073; -0.001322;  0.035769; ; frame_size 3837;video_stream.frame_number 35391;  hdvideo_stream.frame_number: 0 ; 1431378145.594459 
+
+;navdata_time 1247.671203;nd_seq 247904; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-007 ;phys_accs  19.756439; -101.980141; -942.431152;phys_gyros   0.039832; -0.022115;  0.020238; ; frame_size 3837;video_stream.frame_number 35391;  hdvideo_stream.frame_number: 0 ; 1431378145.599152 
+
+;navdata_time 1247.676177;nd_seq 247905; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-006 ;phys_accs  19.829752; -102.018997; -943.673340;phys_gyros   0.013930; -0.000045; -0.011576; ; frame_size 3837;video_stream.frame_number 35391;  hdvideo_stream.frame_number: 0 ; 1431378145.604029 
+
+;navdata_time 1247.681213;nd_seq 247906; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.824284; -102.038811; -944.824707;phys_gyros   0.033567; -0.034532;  0.021447; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.609255 
+
+;navdata_time 1247.686462;nd_seq 247907; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-006 ;phys_accs  19.792919; -102.045059; -944.792969;phys_gyros   0.005968;  0.012937; -0.014404; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.614139 
+
+;navdata_time 1247.691284;nd_seq 247908; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0053;-007 ;phys_accs  19.897661; -102.047600; -944.725586;phys_gyros   0.055628; -0.002308;  0.039568; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.621253 
+
+;navdata_time 1247.696472;nd_seq 247909; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-005 ;phys_accs  19.859224; -102.043907; -945.203613;phys_gyros   0.073915;  0.026231; -0.001673; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.625796 
+
+;navdata_time 1247.701354;nd_seq 247910; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0052;-006 ;phys_accs  19.912306; -102.048759; -946.015137;phys_gyros   0.068558;  0.043581; -0.021581; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.629214 
+
+;navdata_time 1247.706359;nd_seq 247911; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-007 ;phys_accs  19.909569; -102.052406; -947.704102;phys_gyros   0.061582;  0.015898; -0.033033; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.634108 
+
+;navdata_time 1247.711364;nd_seq 247912; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-008 ;phys_accs  19.901825; -102.010956; -945.980957;phys_gyros  -0.016959;  0.057234; -0.032780; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.639276 
+
+;navdata_time 1247.716430;nd_seq 247913; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-007 ;phys_accs  19.922461; -101.979355; -945.020508;phys_gyros  -0.010393; -0.013244;  0.043580; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.644143 
+
+;navdata_time 1247.721405;nd_seq 247914; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-005 ;phys_accs  19.889441; -101.947319; -943.492676;phys_gyros  -0.034031; -0.023939;  0.027632; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.649208 
+
+;navdata_time 1247.726623;nd_seq 247915; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.884720; -101.948975; -943.001953;phys_gyros   0.006445; -0.058250;  0.047567; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.654372 
+
+;navdata_time 1247.731658;nd_seq 247916; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-007 ;phys_accs  19.857630; -101.996170; -944.895020;phys_gyros   0.029996; -0.074338; -0.024730; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.659653 
+
+;navdata_time 1247.736511;nd_seq 247917; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0052;-006 ;phys_accs  19.867733; -102.020416; -944.084473;phys_gyros   0.034497;  0.017183; -0.018861; ; frame_size 4034;video_stream.frame_number 35392;  hdvideo_stream.frame_number: 0 ; 1431378145.664172 
+
+;navdata_time 1247.741516;nd_seq 247918; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0056;-007 ;phys_accs  19.894434; -102.063507; -945.175781;phys_gyros   0.057901; -0.013751; -0.010330; ; frame_size 1928;video_stream.frame_number 35393;  hdvideo_stream.frame_number: 0 ; 1431378145.669905 
+
+;navdata_time 1247.746643;nd_seq 247919; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-008 ;phys_accs  19.932009; -102.060501; -943.894043;phys_gyros   0.042446;  0.045298;  0.024984; ; frame_size 1928;video_stream.frame_number 35393;  hdvideo_stream.frame_number: 0 ; 1431378145.674381 
+
+;navdata_time 1247.751647;nd_seq 247920; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-008 ;phys_accs  19.957050; -102.055946; -944.069336;phys_gyros   0.071334; -0.026057;  0.071090; ; frame_size 3464;video_stream.frame_number 35394;  hdvideo_stream.frame_number: 0 ; 1431378145.680687 
+
+;navdata_time 1247.756622;nd_seq 247921; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-006 ;phys_accs  19.958080; -102.035889; -944.415527;phys_gyros   0.033766; -0.008828;  0.050238; ; frame_size 3464;video_stream.frame_number 35394;  hdvideo_stream.frame_number: 0 ; 1431378145.684378 
+
+;navdata_time 1247.761779;nd_seq 247922; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-006 ;phys_accs  19.943129; -102.000053; -944.131348;phys_gyros   0.019930;  0.026015;  0.048087; ; frame_size 3464;video_stream.frame_number 35394;  hdvideo_stream.frame_number: 0 ; 1431378145.689658 
+
+;navdata_time 1247.766906;nd_seq 247923; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-006 ;phys_accs  19.918991; -101.974205; -944.579590;phys_gyros  -0.022696;  0.026082; -0.012880; ; frame_size 3464;video_stream.frame_number 35394;  hdvideo_stream.frame_number: 0 ; 1431378145.694582 
+
+;navdata_time 1247.771728;nd_seq 247924; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-007 ;phys_accs  19.894741; -101.949921; -944.207520;phys_gyros  -0.026718;  0.073377; -0.026777; ; frame_size 3464;video_stream.frame_number 35394;  hdvideo_stream.frame_number: 0 ; 1431378145.699500 
+
+;navdata_time 1247.776763;nd_seq 247925; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-007 ;phys_accs  19.856079; -101.967598; -945.725586;phys_gyros  -0.000166; -0.010373; -0.023666; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.704438 
+
+;navdata_time 1247.781768;nd_seq 247926; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-007 ;phys_accs  19.814215; -102.010979; -947.667969;phys_gyros   0.011038; -0.005605;  0.005113; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.709958 
+
+;navdata_time 1247.787017;nd_seq 247927; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0055;-007 ;phys_accs  19.761940; -102.082779; -950.918945;phys_gyros   0.041878; -0.060834;  0.048532; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.716125 
+
+;navdata_time 1247.791778;nd_seq 247928; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-005 ;phys_accs  19.741467; -102.137329; -952.705566;phys_gyros   0.017889; -0.035250;  0.017900; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.719590 
+
+;navdata_time 1247.797058;nd_seq 247929; raw_accs 2072; 2048; 2544; raw_gyros 0046; 0054;-005 ;phys_accs  19.723158; -103.701370; -953.137695;phys_gyros   0.029732; -0.030201; -0.013607; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.724885 
+
+;navdata_time 1247.801849;nd_seq 247930; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0057;-007 ;phys_accs  19.756054; -104.044434; -952.483887;phys_gyros   0.025149; -0.045365; -0.066089; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.729732 
+
+;navdata_time 1247.807098;nd_seq 247931; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0055;-005 ;phys_accs  19.779301; -105.628220; -951.258301;phys_gyros   0.039080; -0.064479; -0.079552; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.734985 
+
+;navdata_time 1247.811950;nd_seq 247932; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0054;-005 ;phys_accs  19.841696; -103.772278; -951.798828;phys_gyros   0.060213; -0.112410; -0.058150; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.739823 
+
+;navdata_time 1247.816955;nd_seq 247933; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-006 ;phys_accs  19.889894; -102.648674; -951.653320;phys_gyros   0.061883; -0.100723; -0.060342; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.744571 
+
+;navdata_time 1247.821929;nd_seq 247934; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  19.936998; -101.374641; -950.932617;phys_gyros   0.070089; -0.076728; -0.030937; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.749942 
+
+;navdata_time 1247.827117;nd_seq 247935; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-008 ;phys_accs  19.982681; -100.695801; -948.737793;phys_gyros   0.043115; -0.023002; -0.011713; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.755454 
+
+;navdata_time 1247.832000;nd_seq 247936; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-008 ;phys_accs  19.988396; -102.585831; -945.146484;phys_gyros   0.015000;  0.018968;  0.036978; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.760966 
+
+;navdata_time 1247.837005;nd_seq 247937; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  20.007702; -101.713417; -943.634766;phys_gyros  -0.001255;  0.016998;  0.075258; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.764443 
+
+;navdata_time 1247.842071;nd_seq 247938; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-006 ;phys_accs  19.964064; -102.765732; -942.969238;phys_gyros   0.004700;  0.029721;  0.051601; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.770013 
+
+;navdata_time 1247.849578;nd_seq 247939; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0054;-005 ;phys_accs  19.925858; -101.579430; -943.876465;phys_gyros   0.023186; -0.002530; -0.004853; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.777338 
+
+;navdata_time 1247.852203;nd_seq 247940; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  19.851521; -101.764313; -945.075195;phys_gyros   0.039279;  0.000141; -0.066019; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.779831 
+
+;navdata_time 1247.857208;nd_seq 247941; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-008 ;phys_accs  19.799398; -102.153465; -944.409180;phys_gyros   0.009286; -0.007877; -0.065429; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.785081 
+
+;navdata_time 1247.862213;nd_seq 247942; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-007 ;phys_accs  19.768572; -101.891632; -944.657227;phys_gyros   0.011067;  0.007685; -0.012219; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.789891 
+
+;navdata_time 1247.867218;nd_seq 247943; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0052;-007 ;phys_accs  19.746477; -102.341835; -945.263672;phys_gyros   0.008305;  0.057774;  0.054938; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.797083 
+
+;navdata_time 1247.872283;nd_seq 247944; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0056;-007 ;phys_accs  19.758947; -102.000999; -946.045898;phys_gyros   0.029072;  0.038086;  0.063162; ; frame_size 3464;video_stream.frame_number 35395;  hdvideo_stream.frame_number: 0 ; 1431378145.801016 
+
+;navdata_time 1247.877319;nd_seq 247945; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0052;-007 ;phys_accs  19.766190; -102.028702; -947.814941;phys_gyros   0.082869;  0.061296;  0.056780; ; frame_size 3593;video_stream.frame_number 35396;  hdvideo_stream.frame_number: 0 ; 1431378145.804987 
+
+;navdata_time 1247.882324;nd_seq 247946; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0055;-007 ;phys_accs  19.811346; -102.112808; -945.891113;phys_gyros   0.030813; -0.036259;  0.013418; ; frame_size 3593;video_stream.frame_number 35396;  hdvideo_stream.frame_number: 0 ; 1431378145.810029 
+
+;navdata_time 1247.887603;nd_seq 247947; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.844070; -101.943260; -945.000000;phys_gyros   0.078975; -0.019034;  0.024882; ; frame_size 3593;video_stream.frame_number 35396;  hdvideo_stream.frame_number: 0 ; 1431378145.815903 
+
+;navdata_time 1247.892517;nd_seq 247948; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  19.874161; -102.075249; -943.502930;phys_gyros  -0.011108; -0.061319;  0.041415; ; frame_size 3593;video_stream.frame_number 35396;  hdvideo_stream.frame_number: 0 ; 1431378145.821119 
+
+;navdata_time 1247.897491;nd_seq 247949; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-008 ;phys_accs  19.901922; -101.935089; -942.993164;phys_gyros   0.031320; -0.044025;  0.069037; ; frame_size 17390;video_stream.frame_number 35397;  hdvideo_stream.frame_number: 0 ; 1431378145.825278 
+
+;navdata_time 1247.902404;nd_seq 247950; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  19.908253; -101.944962; -944.937500;phys_gyros   0.003391; -0.030262;  0.058749; ; frame_size 17390;video_stream.frame_number 35397;  hdvideo_stream.frame_number: 0 ; 1431378145.830993 
+
+;navdata_time 1247.907806;nd_seq 247951; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-007 ;phys_accs  19.948259; -101.975571; -944.060547;phys_gyros   0.000346; -0.096842;  0.040611; ; frame_size 17390;video_stream.frame_number 35397;  hdvideo_stream.frame_number: 0 ; 1431378145.837208 
+
+;navdata_time 1247.912567;nd_seq 247952; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.965837; -101.939789; -945.172852;phys_gyros   0.042767; -0.048819;  0.019615; ; frame_size 5168;video_stream.frame_number 35398;  hdvideo_stream.frame_number: 0 ; 1431378145.841543 
+
+;navdata_time 1247.917449;nd_seq 247953; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-005 ;phys_accs  19.998600; -102.011314; -943.896973;phys_gyros   0.005794; -0.109396; -0.000099; ; frame_size 5168;video_stream.frame_number 35398;  hdvideo_stream.frame_number: 0 ; 1431378145.846462 
+
+;navdata_time 1247.922760;nd_seq 247954; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  20.007854; -102.001862; -944.060059;phys_gyros   0.081106; -0.022204;  0.020829; ; frame_size 5168;video_stream.frame_number 35398;  hdvideo_stream.frame_number: 0 ; 1431378145.850675 
+
+;navdata_time 1247.927795;nd_seq 247955; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-007 ;phys_accs  20.004652; -102.023895; -944.431152;phys_gyros   0.057364; -0.020105; -0.014353; ; frame_size 5168;video_stream.frame_number 35398;  hdvideo_stream.frame_number: 0 ; 1431378145.856047 
+
+;navdata_time 1247.932617;nd_seq 247956; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0052;-007 ;phys_accs  19.997643; -102.043800; -944.123535;phys_gyros   0.070829;  0.035878;  0.028073; ; frame_size 5168;video_stream.frame_number 35398;  hdvideo_stream.frame_number: 0 ; 1431378145.862857 
+
+;navdata_time 1247.937622;nd_seq 247957; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0052;-005 ;phys_accs  19.969351; -102.015190; -944.580566;phys_gyros   0.061838;  0.079145; -0.018062; ; frame_size 5168;video_stream.frame_number 35398;  hdvideo_stream.frame_number: 0 ; 1431378145.865560 
+
+;navdata_time 1247.942626;nd_seq 247958; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0052;-006 ;phys_accs  19.933031; -102.014557; -944.208496;phys_gyros   0.015012;  0.084776; -0.005419; ; frame_size 2370;video_stream.frame_number 35399;  hdvideo_stream.frame_number: 0 ; 1431378145.870287 
+
+;navdata_time 1247.947631;nd_seq 247959; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-005 ;phys_accs  19.878384; -101.979004; -944.230469;phys_gyros   0.034865;  0.084292; -0.047388; ; frame_size 2370;video_stream.frame_number 35399;  hdvideo_stream.frame_number: 0 ; 1431378145.876112 
+
+;navdata_time 1247.952636;nd_seq 247960; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-006 ;phys_accs  19.814491; -101.961563; -944.352051;phys_gyros   0.002412;  0.036725; -0.074773; ; frame_size 2370;video_stream.frame_number 35399;  hdvideo_stream.frame_number: 0 ; 1431378145.880728 
+
+;navdata_time 1247.957824;nd_seq 247961; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0052;-007 ;phys_accs  19.757639; -101.962196; -944.206543;phys_gyros   0.012018;  0.008761; -0.046646; ; frame_size 2370;video_stream.frame_number 35399;  hdvideo_stream.frame_number: 0 ; 1431378145.885590 
+
+;navdata_time 1247.962738;nd_seq 247962; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0054;-007 ;phys_accs  19.717211; -101.963921; -944.388672;phys_gyros   0.034062; -0.001051; -0.035873; ; frame_size 2370;video_stream.frame_number 35399;  hdvideo_stream.frame_number: 0 ; 1431378145.890509 
+
+;navdata_time 1247.968048;nd_seq 247963; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  19.711781; -101.992485; -944.272461;phys_gyros   0.034468;  0.018948;  0.052039; ; frame_size 2370;video_stream.frame_number 35399;  hdvideo_stream.frame_number: 0 ; 1431378145.895883 
+
+;navdata_time 1247.972808;nd_seq 247964; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-008 ;phys_accs  19.740274; -102.012680; -944.276367;phys_gyros   0.097169;  0.015620;  0.064178; ; frame_size 2291;video_stream.frame_number 35400;  hdvideo_stream.frame_number: 0 ; 1431378145.900600 
+
+;navdata_time 1247.977813;nd_seq 247965; raw_accs 2076; 2044; 2540; raw_gyros 0046; 0054;-006 ;phys_accs  21.336359; -102.061188; -944.352051;phys_gyros   0.065137;  0.015505;  0.079540; ; frame_size 2291;video_stream.frame_number 35400;  hdvideo_stream.frame_number: 0 ; 1431378145.905829 
+
+;navdata_time 1247.982757;nd_seq 247966; raw_accs 2076; 2044; 2540; raw_gyros 0047; 0053;-006 ;phys_accs  23.292215; -102.104607; -944.327148;phys_gyros   0.073470; -0.007057;  0.037573; ; frame_size 2291;video_stream.frame_number 35400;  hdvideo_stream.frame_number: 0 ; 1431378145.910494 
+
+;navdata_time 1247.988067;nd_seq 247967; raw_accs 2076; 2044; 2540; raw_gyros 0047; 0054;-006 ;phys_accs  26.855392; -102.157990; -944.466797;phys_gyros   0.038796; -0.007557; -0.015484; ; frame_size 2291;video_stream.frame_number 35400;  hdvideo_stream.frame_number: 0 ; 1431378145.918278 
+
+;navdata_time 1247.992919;nd_seq 247968; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-006 ;phys_accs  27.017189; -102.140251; -944.430176;phys_gyros   0.011905;  0.012459; -0.040947; ; frame_size 2291;video_stream.frame_number 35400;  hdvideo_stream.frame_number: 0 ; 1431378145.921913 
+
+;navdata_time 1247.997924;nd_seq 247969; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0054;-005 ;phys_accs  25.710608; -102.090363; -944.406250;phys_gyros   0.053267;  0.002381; -0.069067; ; frame_size 2291;video_stream.frame_number 35400;  hdvideo_stream.frame_number: 0 ; 1431378145.925593 
+
+;navdata_time 1248.002990;nd_seq 247970; raw_accs 2076; 2044; 2540; raw_gyros 0047; 0054;-008 ;phys_accs  23.068228; -102.025551; -944.368164;phys_gyros   0.025984;  0.010127; -0.025893; ; frame_size 2257;video_stream.frame_number 35401;  hdvideo_stream.frame_number: 0 ; 1431378145.933543 
+
+;navdata_time 1248.008178;nd_seq 247971; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0052;-007 ;phys_accs  20.429045; -101.976128; -944.289551;phys_gyros   0.079356;  0.003849; -0.009425; ; frame_size 2257;video_stream.frame_number 35401;  hdvideo_stream.frame_number: 0 ; 1431378145.936368 
+
+;navdata_time 1248.013000;nd_seq 247972; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0055;-006 ;phys_accs  22.080826; -102.037582; -945.839844;phys_gyros   0.050241; -0.014187;  0.028316; ; frame_size 2257;video_stream.frame_number 35401;  hdvideo_stream.frame_number: 0 ; 1431378145.940801 
+
+;navdata_time 1248.018035;nd_seq 247973; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0054;-007 ;phys_accs  20.661377; -102.048058; -947.629395;phys_gyros   0.064770;  0.017773;  0.033867; ; frame_size 2257;video_stream.frame_number 35401;  hdvideo_stream.frame_number: 0 ; 1431378145.945593 
+
+;navdata_time 1248.023223;nd_seq 247974; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-008 ;phys_accs  21.661852; -102.120216; -951.039551;phys_gyros   0.068265; -0.040447;  0.023623; ; frame_size 2257;video_stream.frame_number 35401;  hdvideo_stream.frame_number: 0 ; 1431378145.951654 
+
+;navdata_time 1248.028076;nd_seq 247975; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0053;-007 ;phys_accs  19.371161; -102.099831; -952.608887;phys_gyros   0.066657; -0.002830;  0.040105; ; frame_size 2257;video_stream.frame_number 35401;  hdvideo_stream.frame_number: 0 ; 1431378145.955659 
+
+;navdata_time 1248.033203;nd_seq 247976; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-007 ;phys_accs  18.700838; -102.091583; -953.125488;phys_gyros   0.086511; -0.018501;  0.031449; ; frame_size 2257;video_stream.frame_number 35401;  hdvideo_stream.frame_number: 0 ; 1431378145.961068 
+
+;navdata_time 1248.038116;nd_seq 247977; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0054;-005 ;phys_accs  19.947451; -102.100853; -952.497070;phys_gyros   0.091824;  0.006256;  0.029536; ; frame_size 4097;video_stream.frame_number 35402;  hdvideo_stream.frame_number: 0 ; 1431378145.967067 
+
+;navdata_time 1248.043151;nd_seq 247978; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0052;-005 ;phys_accs  19.334778; -102.064117; -951.206055;phys_gyros   0.080542;  0.057767; -0.017570; ; frame_size 4097;video_stream.frame_number 35402;  hdvideo_stream.frame_number: 0 ; 1431378145.971645 
+
+;navdata_time 1248.048339;nd_seq 247979; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0053;-006 ;phys_accs  20.916336; -102.073204; -950.355957;phys_gyros   0.092351;  0.021079; -0.065487; ; frame_size 4097;video_stream.frame_number 35402;  hdvideo_stream.frame_number: 0 ; 1431378145.976049 
+
+;navdata_time 1248.053405;nd_seq 247980; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-008 ;phys_accs  19.511536; -102.010864; -948.294434;phys_gyros   0.054379;  0.073042; -0.061810; ; frame_size 4097;video_stream.frame_number 35402;  hdvideo_stream.frame_number: 0 ; 1431378145.981865 
+
+;navdata_time 1248.058288;nd_seq 247981; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0052;-006 ;phys_accs  19.765911; -101.977661; -945.720703;phys_gyros   0.039041;  0.036222; -0.034882; ; frame_size 4097;video_stream.frame_number 35402;  hdvideo_stream.frame_number: 0 ; 1431378145.986154 
+
+;navdata_time 1248.063201;nd_seq 247982; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.919720; -101.956711; -943.754395;phys_gyros   0.011870;  0.059830;  0.034040; ; frame_size 4097;video_stream.frame_number 35402;  hdvideo_stream.frame_number: 0 ; 1431378145.991249 
+
+;navdata_time 1248.068359;nd_seq 247983; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0053;-007 ;phys_accs  19.612684; -101.951660; -942.980469;phys_gyros  -0.034207;  0.069252;  0.046307; ; frame_size 4097;video_stream.frame_number 35402;  hdvideo_stream.frame_number: 0 ; 1431378145.997171 
+
+;navdata_time 1248.073303;nd_seq 247984; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0052;-008 ;phys_accs  20.173212; -101.994713; -943.777344;phys_gyros   0.003241;  0.044535;  0.047343; ; frame_size 2661;video_stream.frame_number 35403;  hdvideo_stream.frame_number: 0 ; 1431378146.001575 
+
+;navdata_time 1248.078277;nd_seq 247985; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0055;-006 ;phys_accs  19.722744; -102.032593; -944.891602;phys_gyros  -0.010508;  0.045600;  0.025654; ; frame_size 2661;video_stream.frame_number 35403;  hdvideo_stream.frame_number: 0 ; 1431378146.005837 
+
+;navdata_time 1248.083343;nd_seq 247986; raw_accs 2072; 2044; 2540; raw_gyros 0048; 0054;-007 ;phys_accs  19.803274; -102.067574; -944.543457;phys_gyros   0.067548;  0.003947;  0.019839; ; frame_size 2661;video_stream.frame_number 35403;  hdvideo_stream.frame_number: 0 ; 1431378146.011621 
+
+;navdata_time 1248.088775;nd_seq 247987; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-005 ;phys_accs  19.865599; -102.102638; -944.674805;phys_gyros   0.053339; -0.019692;  0.001136; ; frame_size 2661;video_stream.frame_number 35403;  hdvideo_stream.frame_number: 0 ; 1431378146.016707 
+
+;navdata_time 1248.093475;nd_seq 247988; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0055;-006 ;phys_accs  19.738409; -102.103752; -943.793945;phys_gyros   0.060624; -0.030995; -0.022814; ; frame_size 2661;video_stream.frame_number 35403;  hdvideo_stream.frame_number: 0 ; 1431378146.021965 
+
+;navdata_time 1248.098480;nd_seq 247989; raw_accs 2072; 2044; 2540; raw_gyros 0045; 0053;-006 ;phys_accs  19.985643; -102.103806; -944.215820;phys_gyros  -0.001492; -0.024918; -0.048484; ; frame_size 2661;video_stream.frame_number 35403;  hdvideo_stream.frame_number: 0 ; 1431378146.026242 
+
+;navdata_time 1248.103424;nd_seq 247990; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0053;-006 ;phys_accs  19.865608; -102.089363; -945.850098;phys_gyros  -0.029583; -0.009668; -0.061681; ; frame_size 5381;video_stream.frame_number 35404;  hdvideo_stream.frame_number: 0 ; 1431378146.031185 
+
+;navdata_time 1248.108520;nd_seq 247991; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0052;-006 ;phys_accs  19.917908; -102.072311; -947.641113;phys_gyros  -0.037403;  0.045193; -0.033054; ; frame_size 5381;video_stream.frame_number 35404;  hdvideo_stream.frame_number: 0 ; 1431378146.036336 
+
+;navdata_time 1248.113616;nd_seq 247992; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0054;-008 ;phys_accs  19.936562; -102.084488; -951.165039;phys_gyros  -0.005451;  0.030259; -0.012582; ; frame_size 5381;video_stream.frame_number 35404;  hdvideo_stream.frame_number: 0 ; 1431378146.043116 
+
+;navdata_time 1248.118804;nd_seq 247993; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0053;-006 ;phys_accs  19.880680; -102.069832; -951.000977;phys_gyros   0.047716;  0.065055;  0.019661; ; frame_size 5381;video_stream.frame_number 35404;  hdvideo_stream.frame_number: 0 ; 1431378146.046584 
+
+;navdata_time 1248.123657;nd_seq 247994; raw_accs 2072; 2044; 2540; raw_gyros 0047; 0054;-005 ;phys_accs  19.961689; -102.063789; -949.812988;phys_gyros   0.064834;  0.013609;  0.000981; ; frame_size 5381;video_stream.frame_number 35404;  hdvideo_stream.frame_number: 0 ; 1431378146.051567 
+
+;navdata_time 1248.128753;nd_seq 247995; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  19.922907; -102.026047; -945.789551;phys_gyros   0.077952; -0.006354; -0.005162; ; frame_size 5381;video_stream.frame_number 35404;  hdvideo_stream.frame_number: 0 ; 1431378146.056466 
+
+;navdata_time 1248.133697;nd_seq 247996; raw_accs 2072; 2044; 2544; raw_gyros 0048; 0056;-006 ;phys_accs  19.906248; -102.013924; -944.373047;phys_gyros   0.057414; -0.041456; -0.043808; ; frame_size 5381;video_stream.frame_number 35404;  hdvideo_stream.frame_number: 0 ; 1431378146.062143 
+
+;navdata_time 1248.138671;nd_seq 247997; raw_accs 2072; 2044; 2544; raw_gyros 0047; 0053;-008 ;phys_accs  19.860680; -102.027916; -946.349121;phys_gyros   0.060121; -0.065159; -0.004241; ; frame_size 1989;video_stream.frame_number 35405;  hdvideo_stream.frame_number: 0 ; 1431378146.068278 
+
+;navdata_time 1248.143615;nd_seq 247998; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0053;-008 ;phys_accs  19.774109; -102.051254; -950.103027;phys_gyros   0.048070; -0.036269;  0.014126; ; frame_size 1989;video_stream.frame_number 35405;  hdvideo_stream.frame_number: 0 ; 1431378146.072396 
+
+;navdata_time 1248.148742;nd_seq 247999; raw_accs 2072; 2044; 2544; raw_gyros 0045; 0053;-005 ;phys_accs  19.771187; -102.073120; -953.828613;phys_gyros   0.024435; -0.008497;  0.056295; ; frame_size 1989;video_stream.frame_number 35405;  hdvideo_stream.frame_number: 0 ; 1431378146.076636 
+
+;navdata_time 1248.153900;nd_seq 248000; raw_accs 2072; 2044; 2544; raw_gyros 0046; 0054;-006 ;phys_accs  19.786087; -102.049683; -953.400391;phys_gyros  -0.015272;  0.033242;  0.036740; ; frame_size 1989;video_stream.frame_number 35405;  hdvideo_stream.frame_number: 0 ; 1431378146.081841 
+
+;navdata_time 1248.158782;nd_seq 248001; raw_accs 2072; 2044; 2540; raw_gyros 0046; 0054;-007 ;phys_accs  19.845840; -102.019859; -951.208984;phys_gyros  -0.033505;  0.025363; -0.017137; ; frame_size 1989;video_stream.frame_number 35405;  hdvideo_stream.frame_number: 0 ; 1431378146.086344 

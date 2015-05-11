@@ -1,0 +1,13 @@
+Sources/navdata_client/raw_capture.c:  if(in->status == VP_API_STATUS_PROCESSING && in->size > 0)
+Sources/navdata_client/raw_capture.c:      local_size = in->size;
+Sources/navdata_client/raw_capture.c:	      vp_os_memcpy(total_size+(int8_t*)&special_struct, &in->buffers[in->indexBuffer][0], min(sizeof(special_struct)-total_size, local_size));
+Sources/navdata_client/raw_capture.c:	      local_size -= min(sizeof(special_struct)-total_size, in->size);
+Sources/navdata_client/raw_capture.c:	      total_size += min(sizeof(special_struct)-total_size, in->size);
+Sources/navdata_client/raw_capture.c:	  fwrite(&in->buffers[in->indexBuffer][0], sizeof(int8_t), local_size*sizeof(int8_t), cfg->f);
+Sources/navdata_client/raw_capture.c:  out->status = in->status;
+Sources/ihm/ihm_stages_o_gtk.c:    pixbuf_data = (uint8_t*) in->buffers[in->indexBuffer];
+Sources/ihm/ihm_stages_o_gtk.c:    picture->raw = in->buffers[in->indexBuffer];
+Sources/ihm/ihm_stages_o_gtk.c:    if (in->size > 0) {
+Sources/ihm/ihm_stages_o_gtk.c:    out->size = in->size;
+Sources/ihm/ihm_stages_o_gtk.c:    out->indexBuffer = in->indexBuffer;
+Sources/ihm/ihm_stages_o_gtk.c:    out->buffers = in->buffers;
